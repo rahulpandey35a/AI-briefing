@@ -1,12 +1,9 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 
 const FEEDS = [
-  { name: "Ahead of AI",            url: "https://magazine.sebastianraschka.com/feed" },
-  { name: "The Gradient",          url: "https://thegradient.pub/rss/" },
   { name: "Import AI",              url: "https://importai.substack.com/feed" },
   { name: "AI Snake Oil",          url: "https://www.aisnakeoil.com/feed" },
   { name: "MIT Technology Review",  url: "https://www.technologyreview.com/topic/artificial-intelligence/feed" },
-  { name: "arXiv — cs.AI",         url: "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=3" },
 ];
 
 const OUT = "feeds.json";
