@@ -1,6 +1,5 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 
-// proxy:true routes through a reader relay to dodge 403 bot-blocks
 const FEEDS = [
   { name: "The Batch",              url: "https://www.deeplearning.ai/the-batch/rss/", proxy: true },
   { name: "Import AI",              url: "https://importai.substack.com/feed", proxy: true },
@@ -25,7 +24,6 @@ function decode(s) {
 }
 
 function pick(block, tag) {
-  // matches <tag>, <tag ...>, and namespaced <ns:tag>
   const m = block.match(new RegExp(`<(?:\\w+:)?${tag}[^>]*>([\\s\\S]*?)</(?:\\w+:)?${tag}>`, "i"));
   return m ? m[1] : "";
 }
@@ -51,9 +49,7 @@ function dateOf(block) {
 }
 
 function parse(xml) {
-  let blocks = xml.match(/<item[\s\S]*?<\/item>/gi)
-            || xml.match(/<entry[\s\S]*?<\/entry>/gi)
-            || [];
+  const blocks = xml.match(/<item[\s\S]*?<\/item>/gi) || xml.match(/<entry[\s\S]*?<\/entry>/gi) || [];
   return blocks.slice(0, PER_FEED).map((b) => ({
     title: decode(pick(b, "title")) || "Untitled",
     link: linkOf(b),
@@ -61,33 +57,46 @@ function parse(xml) {
   })).filter((x) => x.link);
 }
 
-async function getText(url, useProxy) {
-  const target = useProxy
-    ? "https://api.allorigins.win/raw?url=" + encodeURIComponent(url)
-    : url;
-  const res = await fetch(target, {
-    headers: {
-      "User-Agent": "Mozilla/5.0 (compatible; ai-briefing/1.0)",
-      "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
-    },
-    redirect: "follow",
-  });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  return res.text();
+// build the list of URLs to try, in order
+function attempts(url, proxy) {
+  const direct = url;
+  const r2 = "https://r.jina.ai/" + url;                                   // reader relay #1
+  const allo = "https://api.allorigins.win/raw?url=" + encodeURIComponent(url); // relay #2
+  const corsproxy = "https://corsproxy.io/?url=" + encodeURIComponent(url);     // relay #3
+  return proxy ? [r2, allo, corsproxy, direct] : [direct, r2, allo];
+}
+
+async function getText(target) {
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), 20000); // 20s ceiling
+  try {
+    const res = await fetch(target, {
+      headers: {
+        "User-Agent": "Mozilla/5.0 (compatible; ai-briefing/1.0)",
+        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+      },
+      redirect: "follow",
+      signal: ctrl.signal,
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return await res.text();
+  } finally {
+    clearTimeout(timer);
+  }
 }
 
 async function fetchFeed(f) {
-  // try direct first; if it fails or is empty, retry via proxy
-  try {
-    const items = parse(await getText(f.url, f.proxy === true));
-    if (items.length) return items;
-  } catch (e) {
-    if (!f.proxy) { /* fall through to proxy retry */ }
-    else throw e;
+  let lastErr = "no attempt";
+  for (const target of attempts(f.url, f.proxy === true)) {
+    try {
+      const items = parse(await getText(target));
+      if (items.length) return items;
+      lastErr = "empty";
+    } catch (e) {
+      lastErr = e.message;
+    }
   }
-  // proxy retry for sources that came back empty
-  const items = parse(await getText(f.url, true));
-  return items;
+  throw new Error(lastErr);
 }
 
 async function main() {
@@ -97,8 +106,8 @@ async function main() {
   for (const f of FEEDS) {
     try {
       const items = await fetchFeed(f);
-      if (items.length) { feeds[f.name] = items; console.log(`ok   ${f.name} (${items.length})`); }
-      else { feeds[f.name] = (prev.feeds && prev.feeds[f.name]) || []; console.log(`warn ${f.name} — empty, kept previous`); }
+      feeds[f.name] = items;
+      console.log(`ok   ${f.name} (${items.length})`);
     } catch (e) {
       feeds[f.name] = (prev.feeds && prev.feeds[f.name]) || [];
       console.log(`fail ${f.name} — ${e.message}, kept previous`);
