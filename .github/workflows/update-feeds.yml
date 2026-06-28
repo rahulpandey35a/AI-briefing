@@ -20,7 +20,7 @@ jobs:
         with:
           node-version: 20
       - name: Fetch feeds
-        run: node scripts/fetch-
+        run: node scripts/fetch-feeds.js
       - name: Commit if changed
         run: |
           if [ -n "$(git status --porcelain feeds.json)" ]; then
