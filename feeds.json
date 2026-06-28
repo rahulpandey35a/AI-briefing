@@ -1,8 +1,24 @@
 {
-  "generated": "2026-06-28T14:38:18.198Z",
+  "generated": "2026-06-28T14:50:24.965Z",
   "feeds": {
     "The Batch": [],
-    "Import AI": [],
+    "Import AI": [
+      {
+        "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
+        "link": "https://importai.substack.com/p/import-ai-462-superpersuasion-self",
+        "date": "2026-06-22T12:31:45.000Z"
+      },
+      {
+        "title": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns",
+        "link": "https://importai.substack.com/p/import-ai-461-alignment-is-not-on",
+        "date": "2026-06-15T11:30:53.000Z"
+      },
+      {
+        "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
+        "link": "https://importai.substack.com/p/import-ai-460-reward-hacking-society",
+        "date": "2026-06-08T12:31:32.000Z"
+      }
+    ],
     "AI Snake Oil": [
       {
         "title": "Why AI hasn’t replaced software engineers, and won’t",
