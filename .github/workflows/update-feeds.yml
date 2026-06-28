@@ -1,0 +1,30 @@
+name: Refresh feeds
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Fetch feeds
+        run: node scripts/fetch-feeds.js
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain feeds.json)" ]; then
+            git config user.name  "feeds-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add feeds.json
+            git commit -m "chore: refresh feeds"
+            git push origin HEAD:main
+          else
+            echo "No changes."
+          fi
