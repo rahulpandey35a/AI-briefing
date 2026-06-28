@@ -20,7 +20,7 @@ jobs:
         with:
           node-version: 20
       - name: Fetch feeds
-        run: node scripts/fetch-feeds.json
+        run: node scripts/fetch-feeds.js
       - name: Commit if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
