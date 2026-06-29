@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-28T18:57:34.859Z",
+  "generated": "2026-06-29T12:51:28.679Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -53,7 +53,23 @@
         "date": "2026-06-23T09:00:00.000Z"
       }
     ],
-    "arXiv — cs.AI": [],
+    "arXiv — cs.AI": [
+      {
+        "title": "AI-Model Network: Concept, Current State and Future",
+        "link": "https://arxiv.org/abs/2606.27382",
+        "date": "2026-06-29T04:00:00.000Z"
+      },
+      {
+        "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+        "link": "https://arxiv.org/abs/2606.27443",
+        "date": "2026-06-29T04:00:00.000Z"
+      },
+      {
+        "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+        "link": "https://arxiv.org/abs/2606.27483",
+        "date": "2026-06-29T04:00:00.000Z"
+      }
+    ],
     "Stanford HAI": []
   }
 }
