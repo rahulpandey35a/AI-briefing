@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T11:30:52.854Z",
+  "generated": "2026-06-30T18:24:55.885Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Agriculture is ready for AI, but its data isn’t",
+        "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+        "date": "2026-06-30T12:00:00.000Z"
+      },
+      {
         "title": "AI agents are not your “coworkers”",
         "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
         "date": "2026-06-29T18:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "Agent confidence on the technical frontier",
         "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
         "date": "2026-06-29T14:44:01.000Z"
-      },
-      {
-        "title": "Repositioning retail for the AI era",
-        "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-        "date": "2026-06-25T14:22:59.000Z"
       }
     ],
     "arXiv — cs.AI": [
