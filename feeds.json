@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T10:50:59.670Z",
+  "generated": "2026-07-01T19:15:21.313Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+        "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+        "date": "2026-07-01T14:35:16.000Z"
+      },
+      {
         "title": "Claude Science is Anthropic’s newest flagship product",
         "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
         "date": "2026-06-30T21:50:04.000Z"
@@ -46,11 +51,6 @@
         "title": "Agriculture is ready for AI, but its data isn’t",
         "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
         "date": "2026-06-30T12:00:00.000Z"
-      },
-      {
-        "title": "AI agents are not your “coworkers”",
-        "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-        "date": "2026-06-29T18:00:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
