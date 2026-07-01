@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T18:24:55.885Z",
+  "generated": "2026-07-01T10:50:59.670Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Claude Science is Anthropic’s newest flagship product",
+        "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+        "date": "2026-06-30T21:50:04.000Z"
+      },
+      {
         "title": "Agriculture is ready for AI, but its data isn’t",
         "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
         "date": "2026-06-30T12:00:00.000Z"
@@ -46,28 +51,23 @@
         "title": "AI agents are not your “coworkers”",
         "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
         "date": "2026-06-29T18:00:00.000Z"
-      },
-      {
-        "title": "Agent confidence on the technical frontier",
-        "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-        "date": "2026-06-29T14:44:01.000Z"
       }
     ],
     "arXiv — cs.AI": [
       {
-        "title": "AI-Model Network: Concept, Current State and Future",
-        "link": "https://arxiv.org/abs/2606.27382",
-        "date": "2026-06-30T04:00:00.000Z"
+        "title": "What Drives Interactive Improvement from Feedback?",
+        "link": "https://arxiv.org/abs/2606.30774",
+        "date": "2026-07-01T04:00:00.000Z"
       },
       {
-        "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
-        "link": "https://arxiv.org/abs/2606.27443",
-        "date": "2026-06-30T04:00:00.000Z"
+        "title": "Contrastive Reflection for Iterative Prompt Optimization",
+        "link": "https://arxiv.org/abs/2606.30840",
+        "date": "2026-07-01T04:00:00.000Z"
       },
       {
-        "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
-        "link": "https://arxiv.org/abs/2606.27483",
-        "date": "2026-06-30T04:00:00.000Z"
+        "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+        "link": "https://arxiv.org/abs/2606.30846",
+        "date": "2026-07-01T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
