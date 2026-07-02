@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T19:15:21.313Z",
+  "generated": "2026-07-02T08:30:17.481Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "What Drives Interactive Improvement from Feedback?",
-        "link": "https://arxiv.org/abs/2606.30774",
-        "date": "2026-07-01T04:00:00.000Z"
+        "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+        "link": "https://arxiv.org/abs/2607.00001",
+        "date": "2026-07-02T04:00:00.000Z"
       },
       {
-        "title": "Contrastive Reflection for Iterative Prompt Optimization",
-        "link": "https://arxiv.org/abs/2606.30840",
-        "date": "2026-07-01T04:00:00.000Z"
+        "title": "Bounded Morality: Defining the Space of Moral Computation",
+        "link": "https://arxiv.org/abs/2607.00002",
+        "date": "2026-07-02T04:00:00.000Z"
       },
       {
-        "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
-        "link": "https://arxiv.org/abs/2606.30846",
-        "date": "2026-07-01T04:00:00.000Z"
+        "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+        "link": "https://arxiv.org/abs/2607.00032",
+        "date": "2026-07-02T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
