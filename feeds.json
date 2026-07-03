@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-02T21:54:28.354Z",
+  "generated": "2026-07-03T10:17:21.576Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
-        "link": "https://arxiv.org/abs/2607.00001",
-        "date": "2026-07-02T04:00:00.000Z"
+        "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+        "link": "https://arxiv.org/abs/2607.01306",
+        "date": "2026-07-03T04:00:00.000Z"
       },
       {
-        "title": "Bounded Morality: Defining the Space of Moral Computation",
-        "link": "https://arxiv.org/abs/2607.00002",
-        "date": "2026-07-02T04:00:00.000Z"
+        "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+        "link": "https://arxiv.org/abs/2607.01366",
+        "date": "2026-07-03T04:00:00.000Z"
       },
       {
-        "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
-        "link": "https://arxiv.org/abs/2607.00032",
-        "date": "2026-07-02T04:00:00.000Z"
+        "title": "The Wiola Architecture for Efficient Small Language Models",
+        "link": "https://arxiv.org/abs/2607.01394",
+        "date": "2026-07-03T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
