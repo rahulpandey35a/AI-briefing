@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T14:09:16.248Z",
+  "generated": "2026-07-06T21:16:54.396Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Your family’s $300 stake in OpenAI",
+        "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+        "date": "2026-07-06T18:00:00.000Z"
+      },
+      {
         "title": "Achieving operational excellence with AI",
         "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
         "date": "2026-07-02T15:37:08.000Z"
@@ -46,11 +51,6 @@
         "title": "Teaching AI to run with the turbines",
         "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
         "date": "2026-07-02T12:51:44.000Z"
-      },
-      {
-        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-        "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-        "date": "2026-07-01T14:35:16.000Z"
       }
     ],
     "arXiv — cs.AI": [
