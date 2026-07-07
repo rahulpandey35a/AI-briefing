@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T21:16:54.396Z",
+  "generated": "2026-07-07T11:24:39.224Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
-        "link": "https://arxiv.org/abs/2607.01306",
-        "date": "2026-07-03T04:00:00.000Z"
+        "title": "iFLYTEK-Embodied-Omni Technical Report",
+        "link": "https://arxiv.org/abs/2607.02542",
+        "date": "2026-07-07T04:00:00.000Z"
       },
       {
-        "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
-        "link": "https://arxiv.org/abs/2607.01366",
-        "date": "2026-07-03T04:00:00.000Z"
+        "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+        "link": "https://arxiv.org/abs/2607.02672",
+        "date": "2026-07-07T04:00:00.000Z"
       },
       {
-        "title": "The Wiola Architecture for Efficient Small Language Models",
-        "link": "https://arxiv.org/abs/2607.01394",
-        "date": "2026-07-03T04:00:00.000Z"
+        "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+        "link": "https://arxiv.org/abs/2607.02686",
+        "date": "2026-07-07T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
