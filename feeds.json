@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T11:24:39.224Z",
+  "generated": "2026-07-07T19:18:28.944Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "The foundational elements of AI architecture that IT leaders need to scale",
+        "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+        "date": "2026-07-07T11:10:52.000Z"
+      },
+      {
         "title": "Your family’s $300 stake in OpenAI",
         "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
         "date": "2026-07-06T18:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "Achieving operational excellence with AI",
         "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
         "date": "2026-07-02T15:37:08.000Z"
-      },
-      {
-        "title": "Teaching AI to run with the turbines",
-        "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-        "date": "2026-07-02T12:51:44.000Z"
       }
     ],
     "arXiv — cs.AI": [
