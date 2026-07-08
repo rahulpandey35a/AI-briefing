@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08T00:16:42.274Z",
+  "generated": "2026-07-08T10:38:47.246Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "iFLYTEK-Embodied-Omni Technical Report",
-        "link": "https://arxiv.org/abs/2607.02542",
-        "date": "2026-07-07T04:00:00.000Z"
+        "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
+        "link": "https://arxiv.org/abs/2607.05456",
+        "date": "2026-07-08T04:00:00.000Z"
       },
       {
-        "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
-        "link": "https://arxiv.org/abs/2607.02672",
-        "date": "2026-07-07T04:00:00.000Z"
+        "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
+        "link": "https://arxiv.org/abs/2607.05563",
+        "date": "2026-07-08T04:00:00.000Z"
       },
       {
-        "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
-        "link": "https://arxiv.org/abs/2607.02686",
-        "date": "2026-07-07T04:00:00.000Z"
+        "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
+        "link": "https://arxiv.org/abs/2607.05571",
+        "date": "2026-07-08T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
