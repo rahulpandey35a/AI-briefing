@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08T21:52:42.303Z",
+  "generated": "2026-07-09T11:27:36.083Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
-        "link": "https://arxiv.org/abs/2607.05456",
-        "date": "2026-07-08T04:00:00.000Z"
+        "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+        "link": "https://arxiv.org/abs/2607.06624",
+        "date": "2026-07-09T04:00:00.000Z"
       },
       {
-        "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
-        "link": "https://arxiv.org/abs/2607.05563",
-        "date": "2026-07-08T04:00:00.000Z"
+        "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+        "link": "https://arxiv.org/abs/2607.06720",
+        "date": "2026-07-09T04:00:00.000Z"
       },
       {
-        "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
-        "link": "https://arxiv.org/abs/2607.05571",
-        "date": "2026-07-08T04:00:00.000Z"
+        "title": "LLM-powered reasoning in agent-based modeling",
+        "link": "https://arxiv.org/abs/2607.06757",
+        "date": "2026-07-09T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
