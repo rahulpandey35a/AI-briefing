@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T18:30:49.805Z",
+  "generated": "2026-07-10T08:53:40.480Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -21,6 +21,11 @@
     ],
     "AI Snake Oil": [
       {
+        "title": "Up the Stack: How AI’s Escape From the Commodity Trap Risks Enterprise Lock-in",
+        "link": "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+        "date": "2026-07-09T22:29:33.000Z"
+      },
+      {
         "title": "Why AI hasn’t replaced software engineers, and won’t",
         "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
         "date": "2026-06-11T02:29:51.000Z"
@@ -29,14 +34,14 @@
         "title": "Did Google’s AI agents really build an operating system for $916?",
         "link": "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
         "date": "2026-05-22T22:24:18.000Z"
-      },
-      {
-        "title": "Do AI Risks Require Extraordinary Government Intervention?",
-        "link": "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
-        "date": "2026-05-21T13:19:41.000Z"
       }
     ],
     "MIT Technology Review": [
+      {
+        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+        "date": "2026-07-09T20:22:28.000Z"
+      },
       {
         "title": "The foundational elements of AI architecture that IT leaders need to scale",
         "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
@@ -46,28 +51,23 @@
         "title": "Your family’s $300 stake in OpenAI",
         "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
         "date": "2026-07-06T18:00:00.000Z"
-      },
-      {
-        "title": "Achieving operational excellence with AI",
-        "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-        "date": "2026-07-02T15:37:08.000Z"
       }
     ],
     "arXiv — cs.AI": [
       {
         "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
         "link": "https://arxiv.org/abs/2607.06624",
-        "date": "2026-07-09T04:00:00.000Z"
+        "date": "2026-07-10T04:00:00.000Z"
       },
       {
         "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
         "link": "https://arxiv.org/abs/2607.06720",
-        "date": "2026-07-09T04:00:00.000Z"
+        "date": "2026-07-10T04:00:00.000Z"
       },
       {
         "title": "LLM-powered reasoning in agent-based modeling",
         "link": "https://arxiv.org/abs/2607.06757",
-        "date": "2026-07-09T04:00:00.000Z"
+        "date": "2026-07-10T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
