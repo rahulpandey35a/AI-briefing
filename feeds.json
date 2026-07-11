@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T21:40:38.064Z",
+  "generated": "2026-07-11T07:24:22.927Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-        "link": "https://arxiv.org/abs/2607.06624",
-        "date": "2026-07-10T04:00:00.000Z"
+        "title": "Context Graphs for Proactive Enterprise Agents",
+        "link": "https://arxiv.org/abs/2607.07721",
+        "date": "2026-07-11T04:00:00.000Z"
       },
       {
-        "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-        "link": "https://arxiv.org/abs/2607.06720",
-        "date": "2026-07-10T04:00:00.000Z"
+        "title": "AI-integrated models for assessing agricultural resilience",
+        "link": "https://arxiv.org/abs/2607.07759",
+        "date": "2026-07-11T04:00:00.000Z"
       },
       {
-        "title": "LLM-powered reasoning in agent-based modeling",
-        "link": "https://arxiv.org/abs/2607.06757",
-        "date": "2026-07-10T04:00:00.000Z"
+        "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+        "link": "https://arxiv.org/abs/2607.07760",
+        "date": "2026-07-11T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
