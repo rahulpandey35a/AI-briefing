@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T00:14:35.282Z",
+  "generated": "2026-07-13T12:42:28.528Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Context Graphs for Proactive Enterprise Agents",
-        "link": "https://arxiv.org/abs/2607.07721",
-        "date": "2026-07-11T04:00:00.000Z"
+        "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+        "link": "https://arxiv.org/abs/2607.08773",
+        "date": "2026-07-13T04:00:00.000Z"
       },
       {
-        "title": "AI-integrated models for assessing agricultural resilience",
-        "link": "https://arxiv.org/abs/2607.07759",
-        "date": "2026-07-11T04:00:00.000Z"
+        "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+        "link": "https://arxiv.org/abs/2607.08774",
+        "date": "2026-07-13T04:00:00.000Z"
       },
       {
-        "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
-        "link": "https://arxiv.org/abs/2607.07760",
-        "date": "2026-07-11T04:00:00.000Z"
+        "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+        "link": "https://arxiv.org/abs/2607.08894",
+        "date": "2026-07-13T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
