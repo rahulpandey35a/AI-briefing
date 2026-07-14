@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T00:09:53.180Z",
+  "generated": "2026-07-14T09:31:16.899Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
-        "link": "https://arxiv.org/abs/2607.08773",
-        "date": "2026-07-13T04:00:00.000Z"
+        "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+        "link": "https://arxiv.org/abs/2607.09664",
+        "date": "2026-07-14T04:00:00.000Z"
       },
       {
-        "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
-        "link": "https://arxiv.org/abs/2607.08774",
-        "date": "2026-07-13T04:00:00.000Z"
+        "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+        "link": "https://arxiv.org/abs/2607.09665",
+        "date": "2026-07-14T04:00:00.000Z"
       },
       {
-        "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
-        "link": "https://arxiv.org/abs/2607.08894",
-        "date": "2026-07-13T04:00:00.000Z"
+        "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+        "link": "https://arxiv.org/abs/2607.09678",
+        "date": "2026-07-14T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
