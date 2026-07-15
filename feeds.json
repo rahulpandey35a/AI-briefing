@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T15:10:02.667Z",
+  "generated": "2026-07-15T21:33:01.319Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+        "date": "2026-07-15T17:09:37.000Z"
+      },
+      {
         "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
         "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
         "date": "2026-07-13T18:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "Anthropic found a hidden space where Claude puzzles over concepts",
         "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
         "date": "2026-07-09T20:22:28.000Z"
-      },
-      {
-        "title": "The foundational elements of AI architecture that IT leaders need to scale",
-        "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-        "date": "2026-07-07T11:10:52.000Z"
       }
     ],
     "arXiv — cs.AI": [
