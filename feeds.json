@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T21:33:01.319Z",
+  "generated": "2026-07-16T07:38:50.001Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
-        "link": "https://arxiv.org/abs/2607.09664",
-        "date": "2026-07-14T04:00:00.000Z"
+        "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+        "link": "https://arxiv.org/abs/2607.13037",
+        "date": "2026-07-16T04:00:00.000Z"
       },
       {
-        "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-        "link": "https://arxiv.org/abs/2607.09665",
-        "date": "2026-07-14T04:00:00.000Z"
+        "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+        "link": "https://arxiv.org/abs/2607.13049",
+        "date": "2026-07-16T04:00:00.000Z"
       },
       {
-        "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
-        "link": "https://arxiv.org/abs/2607.09678",
-        "date": "2026-07-14T04:00:00.000Z"
+        "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+        "link": "https://arxiv.org/abs/2607.13069",
+        "date": "2026-07-16T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
