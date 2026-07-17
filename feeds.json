@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T07:35:33.153Z",
+  "generated": "2026-07-17T12:49:42.743Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "The risk of weather data sabotage is rising",
+        "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+        "date": "2026-07-17T08:57:32.000Z"
+      },
+      {
         "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
         "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
         "date": "2026-07-15T17:09:37.000Z"
@@ -46,11 +51,6 @@
         "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
         "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
         "date": "2026-07-13T18:00:00.000Z"
-      },
-      {
-        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-        "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-        "date": "2026-07-09T20:22:28.000Z"
       }
     ],
     "arXiv — cs.AI": [
