@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T21:47:36.735Z",
+  "generated": "2026-07-17T07:35:33.153Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
         "link": "https://arxiv.org/abs/2607.13037",
-        "date": "2026-07-16T04:00:00.000Z"
+        "date": "2026-07-17T04:00:00.000Z"
       },
       {
         "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
         "link": "https://arxiv.org/abs/2607.13049",
-        "date": "2026-07-16T04:00:00.000Z"
+        "date": "2026-07-17T04:00:00.000Z"
       },
       {
         "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
         "link": "https://arxiv.org/abs/2607.13069",
-        "date": "2026-07-16T04:00:00.000Z"
+        "date": "2026-07-17T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
