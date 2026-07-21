@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T08:41:14.540Z",
+  "generated": "2026-07-21T11:14:24.203Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Advancing next-gen AI with materials science innovation",
+        "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+        "date": "2026-07-21T10:37:34.000Z"
+      },
+      {
         "title": "China’s AI models have Trump’s AI world at war with itself",
         "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
         "date": "2026-07-20T18:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "AI is more likely than humans to form biases when hiring",
         "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
         "date": "2026-07-20T08:39:01.000Z"
-      },
-      {
-        "title": "The risk of weather data sabotage is rising",
-        "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-        "date": "2026-07-17T08:57:32.000Z"
       }
     ],
     "arXiv — cs.AI": [
