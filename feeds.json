@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T03:30:10.551Z",
+  "generated": "2026-07-21T08:41:14.540Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
-        "link": "https://arxiv.org/abs/2607.15280",
-        "date": "2026-07-20T04:00:00.000Z"
+        "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+        "link": "https://arxiv.org/abs/2607.16195",
+        "date": "2026-07-21T04:00:00.000Z"
       },
       {
-        "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
-        "link": "https://arxiv.org/abs/2607.15281",
-        "date": "2026-07-20T04:00:00.000Z"
+        "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+        "link": "https://arxiv.org/abs/2607.16196",
+        "date": "2026-07-21T04:00:00.000Z"
       },
       {
-        "title": "Cura 1T: Specialized Model for Agentic Healthcare",
-        "link": "https://arxiv.org/abs/2607.15314",
-        "date": "2026-07-20T04:00:00.000Z"
+        "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+        "link": "https://arxiv.org/abs/2607.16197",
+        "date": "2026-07-21T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
