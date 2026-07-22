@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T03:28:59.656Z",
+  "generated": "2026-07-22T08:40:07.889Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
-        "link": "https://arxiv.org/abs/2607.16195",
-        "date": "2026-07-21T04:00:00.000Z"
+        "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+        "link": "https://arxiv.org/abs/2607.18239",
+        "date": "2026-07-22T04:00:00.000Z"
       },
       {
-        "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
-        "link": "https://arxiv.org/abs/2607.16196",
-        "date": "2026-07-21T04:00:00.000Z"
+        "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+        "link": "https://arxiv.org/abs/2607.18240",
+        "date": "2026-07-22T04:00:00.000Z"
       },
       {
-        "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
-        "link": "https://arxiv.org/abs/2607.16197",
-        "date": "2026-07-21T04:00:00.000Z"
+        "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+        "link": "https://arxiv.org/abs/2607.18241",
+        "date": "2026-07-22T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
