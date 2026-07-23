@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T03:34:07.761Z",
+  "generated": "2026-07-23T08:41:33.734Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
         "link": "https://arxiv.org/abs/2607.18239",
-        "date": "2026-07-22T04:00:00.000Z"
+        "date": "2026-07-23T04:00:00.000Z"
       },
       {
         "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
         "link": "https://arxiv.org/abs/2607.18240",
-        "date": "2026-07-22T04:00:00.000Z"
+        "date": "2026-07-23T04:00:00.000Z"
       },
       {
         "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
         "link": "https://arxiv.org/abs/2607.18241",
-        "date": "2026-07-22T04:00:00.000Z"
+        "date": "2026-07-23T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
