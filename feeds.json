@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T22:10:34.849Z",
+  "generated": "2026-07-24T03:30:30.902Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,18 +55,18 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-        "link": "https://arxiv.org/abs/2607.18239",
+        "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+        "link": "https://arxiv.org/abs/2607.19349",
         "date": "2026-07-23T04:00:00.000Z"
       },
       {
-        "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-        "link": "https://arxiv.org/abs/2607.18240",
+        "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+        "link": "https://arxiv.org/abs/2607.19350",
         "date": "2026-07-23T04:00:00.000Z"
       },
       {
-        "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-        "link": "https://arxiv.org/abs/2607.18241",
+        "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+        "link": "https://arxiv.org/abs/2607.19351",
         "date": "2026-07-23T04:00:00.000Z"
       }
     ],
