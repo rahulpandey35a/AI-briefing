@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T10:05:11.716Z",
+  "generated": "2026-07-27T14:53:50.154Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,19 +38,19 @@
     ],
     "MIT Technology Review": [
       {
-        "title": "How AI helps scientists design the next generation of medicines",
-        "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-        "date": "2026-07-23T12:00:00.000Z"
+        "title": "The path to artificial superintelligence",
+        "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+        "date": "2026-07-27T12:00:00.000Z"
       },
       {
-        "title": "Advancing next-gen AI with materials science innovation",
-        "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-        "date": "2026-07-21T10:37:34.000Z"
+        "title": "Closing the data loop in AI-driven drug discovery",
+        "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+        "date": "2026-07-27T11:40:16.000Z"
       },
       {
-        "title": "China’s AI models have Trump’s AI world at war with itself",
-        "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-        "date": "2026-07-20T18:00:00.000Z"
+        "title": "Building the enterprise environment for agentic AI",
+        "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+        "date": "2026-07-27T11:32:58.000Z"
       }
     ],
     "arXiv — cs.AI": [
