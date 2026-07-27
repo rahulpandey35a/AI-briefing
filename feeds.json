@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T17:04:27.551Z",
+  "generated": "2026-07-27T19:46:15.174Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+        "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+        "date": "2026-07-27T18:00:00.000Z"
+      },
+      {
         "title": "The path to artificial superintelligence",
         "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
         "date": "2026-07-27T12:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "Closing the data loop in AI-driven drug discovery",
         "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
         "date": "2026-07-27T11:40:16.000Z"
-      },
-      {
-        "title": "Building the enterprise environment for agentic AI",
-        "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-        "date": "2026-07-27T11:32:58.000Z"
       }
     ],
     "arXiv — cs.AI": [
