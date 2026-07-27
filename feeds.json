@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T03:51:08.711Z",
+  "generated": "2026-07-27T10:05:11.716Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
-        "link": "https://arxiv.org/abs/2607.20452",
-        "date": "2026-07-24T04:00:00.000Z"
+        "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+        "link": "https://arxiv.org/abs/2607.21596",
+        "date": "2026-07-27T04:00:00.000Z"
       },
       {
-        "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
-        "link": "https://arxiv.org/abs/2607.20462",
-        "date": "2026-07-24T04:00:00.000Z"
+        "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
+        "link": "https://arxiv.org/abs/2607.21597",
+        "date": "2026-07-27T04:00:00.000Z"
       },
       {
-        "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
-        "link": "https://arxiv.org/abs/2607.20463",
-        "date": "2026-07-24T04:00:00.000Z"
+        "title": "Securing Multimodal AI through Internal Information Decomposition",
+        "link": "https://arxiv.org/abs/2607.21600",
+        "date": "2026-07-27T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
