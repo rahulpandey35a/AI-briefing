@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T08:41:49.869Z",
+  "generated": "2026-07-30T11:16:18.623Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+        "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+        "date": "2026-07-30T10:15:19.000Z"
+      },
+      {
         "title": "The AI Hype Index: Unsexy AI",
         "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
         "date": "2026-07-29T08:42:57.000Z"
@@ -46,11 +51,6 @@
         "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
         "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
         "date": "2026-07-28T09:18:57.000Z"
-      },
-      {
-        "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-        "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-        "date": "2026-07-27T18:00:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
