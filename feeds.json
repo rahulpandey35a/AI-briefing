@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T02:56:29.899Z",
+  "generated": "2026-07-30T05:51:07.495Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Do Models Fake Alignment Without Clear Consequences?",
-        "link": "https://arxiv.org/abs/2607.24758",
-        "date": "2026-07-29T04:00:00.000Z"
+        "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+        "link": "https://arxiv.org/abs/2607.26119",
+        "date": "2026-07-30T04:00:00.000Z"
       },
       {
-        "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-        "link": "https://arxiv.org/abs/2607.24759",
-        "date": "2026-07-29T04:00:00.000Z"
+        "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+        "link": "https://arxiv.org/abs/2607.26120",
+        "date": "2026-07-30T04:00:00.000Z"
       },
       {
-        "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
-        "link": "https://arxiv.org/abs/2607.24762",
-        "date": "2026-07-29T04:00:00.000Z"
+        "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+        "link": "https://arxiv.org/abs/2607.26155",
+        "date": "2026-07-30T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
