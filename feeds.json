@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T03:39:00.585Z",
+  "generated": "2026-07-31T09:12:32.811Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
         "link": "https://arxiv.org/abs/2607.26119",
-        "date": "2026-07-30T04:00:00.000Z"
+        "date": "2026-07-31T04:00:00.000Z"
       },
       {
         "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
         "link": "https://arxiv.org/abs/2607.26120",
-        "date": "2026-07-30T04:00:00.000Z"
+        "date": "2026-07-31T04:00:00.000Z"
       },
       {
         "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
         "link": "https://arxiv.org/abs/2607.26155",
-        "date": "2026-07-30T04:00:00.000Z"
+        "date": "2026-07-31T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
