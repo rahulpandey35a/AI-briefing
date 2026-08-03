@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T03:40:59.874Z",
+  "generated": "2026-08-03T10:00:48.154Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Here’s why AI agents lie and cheat to reach their goals",
+        "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+        "date": "2026-08-03T08:30:05.000Z"
+      },
+      {
         "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
         "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
         "date": "2026-07-30T10:15:19.000Z"
@@ -46,28 +51,23 @@
         "title": "The AI Hype Index: Unsexy AI",
         "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
         "date": "2026-07-29T08:42:57.000Z"
-      },
-      {
-        "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-        "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-        "date": "2026-07-28T09:18:57.000Z"
       }
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
-        "link": "https://arxiv.org/abs/2607.26119",
-        "date": "2026-07-31T04:00:00.000Z"
+        "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+        "link": "https://arxiv.org/abs/2607.28629",
+        "date": "2026-08-03T04:00:00.000Z"
       },
       {
-        "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
-        "link": "https://arxiv.org/abs/2607.26120",
-        "date": "2026-07-31T04:00:00.000Z"
+        "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+        "link": "https://arxiv.org/abs/2607.28631",
+        "date": "2026-08-03T04:00:00.000Z"
       },
       {
-        "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
-        "link": "https://arxiv.org/abs/2607.26155",
-        "date": "2026-07-31T04:00:00.000Z"
+        "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+        "link": "https://arxiv.org/abs/2607.28632",
+        "date": "2026-08-03T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
