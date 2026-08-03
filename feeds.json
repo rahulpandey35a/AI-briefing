@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T17:16:24.273Z",
+  "generated": "2026-08-03T19:48:17.446Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Trump’s AI protectionism has come for robotics",
+        "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+        "date": "2026-08-03T18:43:30.000Z"
+      },
+      {
         "title": "Here’s why AI agents lie and cheat to reach their goals",
         "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
         "date": "2026-08-03T08:30:05.000Z"
@@ -46,11 +51,6 @@
         "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
         "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
         "date": "2026-07-30T10:15:19.000Z"
-      },
-      {
-        "title": "The AI Hype Index: Unsexy AI",
-        "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-        "date": "2026-07-29T08:42:57.000Z"
       }
     ],
     "arXiv — cs.AI": [
