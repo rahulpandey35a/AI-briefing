@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T11:26:49.929Z",
+  "generated": "2026-08-05T14:26:20.359Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -21,6 +21,11 @@
     ],
     "AI Snake Oil": [
       {
+        "title": "AI agents can't yet do open-ended AI research",
+        "link": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+        "date": "2026-08-05T13:49:19.000Z"
+      },
+      {
         "title": "What will be left for us to work on?",
         "link": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
         "date": "2026-07-13T18:47:06.000Z"
@@ -29,11 +34,6 @@
         "title": "Up the Stack: How AI’s Escape From the Commodity Trap Risks Enterprise Lock-in",
         "link": "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
         "date": "2026-07-09T22:29:33.000Z"
-      },
-      {
-        "title": "Why AI hasn’t replaced software engineers, and won’t",
-        "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
-        "date": "2026-06-11T02:29:51.000Z"
       }
     ],
     "MIT Technology Review": [
