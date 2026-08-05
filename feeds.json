@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T03:19:54.683Z",
+  "generated": "2026-08-05T08:47:49.351Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
         "link": "https://arxiv.org/abs/2608.00001",
-        "date": "2026-08-04T04:00:00.000Z"
+        "date": "2026-08-05T04:00:00.000Z"
       },
       {
         "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
         "link": "https://arxiv.org/abs/2608.00003",
-        "date": "2026-08-04T04:00:00.000Z"
+        "date": "2026-08-05T04:00:00.000Z"
       },
       {
         "title": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis",
         "link": "https://arxiv.org/abs/2608.00006",
-        "date": "2026-08-04T04:00:00.000Z"
+        "date": "2026-08-05T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
