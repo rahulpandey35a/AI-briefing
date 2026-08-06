@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06T03:23:06.700Z",
+  "generated": "2026-08-06T08:49:03.619Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
-        "link": "https://arxiv.org/abs/2608.02604",
-        "date": "2026-08-05T04:00:00.000Z"
+        "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+        "link": "https://arxiv.org/abs/2608.04012",
+        "date": "2026-08-06T04:00:00.000Z"
       },
       {
-        "title": "Self-Organising Digital Circuits",
-        "link": "https://arxiv.org/abs/2608.02606",
-        "date": "2026-08-05T04:00:00.000Z"
+        "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+        "link": "https://arxiv.org/abs/2608.04066",
+        "date": "2026-08-06T04:00:00.000Z"
       },
       {
-        "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
-        "link": "https://arxiv.org/abs/2608.02618",
-        "date": "2026-08-05T04:00:00.000Z"
+        "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+        "link": "https://arxiv.org/abs/2608.04071",
+        "date": "2026-08-06T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
