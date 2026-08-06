@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T22:16:46.276Z",
+  "generated": "2026-08-06T03:23:06.700Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,18 +55,18 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
-        "link": "https://arxiv.org/abs/2608.00001",
+        "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+        "link": "https://arxiv.org/abs/2608.02604",
         "date": "2026-08-05T04:00:00.000Z"
       },
       {
-        "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
-        "link": "https://arxiv.org/abs/2608.00003",
+        "title": "Self-Organising Digital Circuits",
+        "link": "https://arxiv.org/abs/2608.02606",
         "date": "2026-08-05T04:00:00.000Z"
       },
       {
-        "title": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis",
-        "link": "https://arxiv.org/abs/2608.00006",
+        "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+        "link": "https://arxiv.org/abs/2608.02618",
         "date": "2026-08-05T04:00:00.000Z"
       }
     ],
