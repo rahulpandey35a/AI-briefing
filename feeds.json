@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T02:23:57.459Z",
+  "generated": "2026-08-10T04:46:22.774Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
-        "link": "https://arxiv.org/abs/2608.05159",
-        "date": "2026-08-07T04:00:00.000Z"
+        "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+        "link": "https://arxiv.org/abs/2608.06394",
+        "date": "2026-08-10T04:00:00.000Z"
       },
       {
-        "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-        "link": "https://arxiv.org/abs/2608.05160",
-        "date": "2026-08-07T04:00:00.000Z"
+        "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+        "link": "https://arxiv.org/abs/2608.06398",
+        "date": "2026-08-10T04:00:00.000Z"
       },
       {
-        "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
-        "link": "https://arxiv.org/abs/2608.05168",
-        "date": "2026-08-07T04:00:00.000Z"
+        "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+        "link": "https://arxiv.org/abs/2608.06400",
+        "date": "2026-08-10T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
