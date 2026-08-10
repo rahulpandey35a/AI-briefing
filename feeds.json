@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T07:55:46.336Z",
+  "generated": "2026-08-10T10:25:05.981Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,19 +38,19 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "AI for science needs reasoning, not just data",
+        "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+        "date": "2026-08-10T09:00:00.000Z"
+      },
+      {
+        "title": "These startups are chasing the next big thing in LLMs",
+        "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+        "date": "2026-08-10T09:00:00.000Z"
+      },
+      {
         "title": "Trump’s AI protectionism has come for robotics",
         "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
         "date": "2026-08-03T18:43:30.000Z"
-      },
-      {
-        "title": "Here’s why AI agents lie and cheat to reach their goals",
-        "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-        "date": "2026-08-03T08:30:05.000Z"
-      },
-      {
-        "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-        "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-        "date": "2026-07-30T10:15:19.000Z"
       }
     ],
     "arXiv — cs.AI": [
