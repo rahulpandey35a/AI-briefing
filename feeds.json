@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T19:06:47.382Z",
+  "generated": "2026-08-10T21:51:13.286Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "AI professors are negotiating the new realities of academic research",
+        "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+        "date": "2026-08-10T20:00:00.000Z"
+      },
+      {
         "title": "AI for science needs reasoning, not just data",
         "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
         "date": "2026-08-10T09:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "These startups are chasing the next big thing in LLMs",
         "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
         "date": "2026-08-10T09:00:00.000Z"
-      },
-      {
-        "title": "Trump’s AI protectionism has come for robotics",
-        "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-        "date": "2026-08-03T18:43:30.000Z"
       }
     ],
     "arXiv — cs.AI": [
