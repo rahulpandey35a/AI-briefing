@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T16:03:55.570Z",
+  "generated": "2026-08-12T19:12:26.373Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Scaling AI agents with trustworthy data",
+        "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+        "date": "2026-08-12T16:51:57.000Z"
+      },
+      {
         "title": "AI professors are negotiating the new realities of academic research",
         "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
         "date": "2026-08-10T20:00:00.000Z"
@@ -45,11 +50,6 @@
       {
         "title": "AI for science needs reasoning, not just data",
         "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-        "date": "2026-08-10T09:00:00.000Z"
-      },
-      {
-        "title": "These startups are chasing the next big thing in LLMs",
-        "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
         "date": "2026-08-10T09:00:00.000Z"
       }
     ],
