@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T02:32:01.171Z",
+  "generated": "2026-08-12T04:54:14.777Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "Towards an Argumentative Foundation for Evaluative AI",
         "link": "https://arxiv.org/abs/2608.07473",
-        "date": "2026-08-11T04:00:00.000Z"
+        "date": "2026-08-12T04:00:00.000Z"
       },
       {
         "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
         "link": "https://arxiv.org/abs/2608.07474",
-        "date": "2026-08-11T04:00:00.000Z"
+        "date": "2026-08-12T04:00:00.000Z"
       },
       {
         "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
         "link": "https://arxiv.org/abs/2608.07476",
-        "date": "2026-08-11T04:00:00.000Z"
+        "date": "2026-08-12T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
