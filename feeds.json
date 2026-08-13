@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T21:54:49.919Z",
+  "generated": "2026-08-13T02:33:31.683Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,18 +55,18 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Towards an Argumentative Foundation for Evaluative AI",
-        "link": "https://arxiv.org/abs/2608.07473",
+        "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+        "link": "https://arxiv.org/abs/2608.09949",
         "date": "2026-08-12T04:00:00.000Z"
       },
       {
-        "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
-        "link": "https://arxiv.org/abs/2608.07474",
+        "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+        "link": "https://arxiv.org/abs/2608.09967",
         "date": "2026-08-12T04:00:00.000Z"
       },
       {
-        "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
-        "link": "https://arxiv.org/abs/2608.07476",
+        "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+        "link": "https://arxiv.org/abs/2608.09986",
         "date": "2026-08-12T04:00:00.000Z"
       }
     ],
