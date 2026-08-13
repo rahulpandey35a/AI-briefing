@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T07:45:40.750Z",
+  "generated": "2026-08-13T10:16:12.801Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "How kids feel about AI, in their own words",
+        "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+        "date": "2026-08-13T09:00:00.000Z"
+      },
+      {
         "title": "Scaling AI agents with trustworthy data",
         "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
         "date": "2026-08-12T16:51:57.000Z"
@@ -46,11 +51,6 @@
         "title": "AI professors are negotiating the new realities of academic research",
         "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
         "date": "2026-08-10T20:00:00.000Z"
-      },
-      {
-        "title": "AI for science needs reasoning, not just data",
-        "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-        "date": "2026-08-10T09:00:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
