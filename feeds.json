@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T02:33:31.683Z",
+  "generated": "2026-08-13T04:58:49.864Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
-        "link": "https://arxiv.org/abs/2608.09949",
-        "date": "2026-08-12T04:00:00.000Z"
+        "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+        "link": "https://arxiv.org/abs/2608.11207",
+        "date": "2026-08-13T04:00:00.000Z"
       },
       {
-        "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2608.09967",
-        "date": "2026-08-12T04:00:00.000Z"
+        "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+        "link": "https://arxiv.org/abs/2608.11210",
+        "date": "2026-08-13T04:00:00.000Z"
       },
       {
-        "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
-        "link": "https://arxiv.org/abs/2608.09986",
-        "date": "2026-08-12T04:00:00.000Z"
+        "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+        "link": "https://arxiv.org/abs/2608.11211",
+        "date": "2026-08-13T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
