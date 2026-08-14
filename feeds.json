@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T02:31:38.496Z",
+  "generated": "2026-08-14T04:55:37.473Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
         "link": "https://arxiv.org/abs/2608.11207",
-        "date": "2026-08-13T04:00:00.000Z"
+        "date": "2026-08-14T04:00:00.000Z"
       },
       {
         "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
         "link": "https://arxiv.org/abs/2608.11210",
-        "date": "2026-08-13T04:00:00.000Z"
+        "date": "2026-08-14T04:00:00.000Z"
       },
       {
         "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
         "link": "https://arxiv.org/abs/2608.11211",
-        "date": "2026-08-13T04:00:00.000Z"
+        "date": "2026-08-14T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
