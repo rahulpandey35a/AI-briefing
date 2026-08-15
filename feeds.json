@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T03:46:18.155Z",
+  "generated": "2026-08-15T06:51:04.833Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-        "link": "https://arxiv.org/abs/2608.11207",
-        "date": "2026-08-14T04:00:00.000Z"
+        "title": "Position: Reasoning is a Learnable Rule-Based Process",
+        "link": "https://arxiv.org/abs/2608.12325",
+        "date": "2026-08-15T04:00:00.000Z"
       },
       {
-        "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-        "link": "https://arxiv.org/abs/2608.11210",
-        "date": "2026-08-14T04:00:00.000Z"
+        "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+        "link": "https://arxiv.org/abs/2608.12345",
+        "date": "2026-08-15T04:00:00.000Z"
       },
       {
-        "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
-        "link": "https://arxiv.org/abs/2608.11211",
-        "date": "2026-08-14T04:00:00.000Z"
+        "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+        "link": "https://arxiv.org/abs/2608.12346",
+        "date": "2026-08-15T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
