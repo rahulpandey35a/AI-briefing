@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T03:56:17.192Z",
+  "generated": "2026-08-17T07:08:43.538Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Position: Reasoning is a Learnable Rule-Based Process",
-        "link": "https://arxiv.org/abs/2608.12325",
-        "date": "2026-08-15T04:00:00.000Z"
+        "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+        "link": "https://arxiv.org/abs/2608.13564",
+        "date": "2026-08-17T04:00:00.000Z"
       },
       {
-        "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-        "link": "https://arxiv.org/abs/2608.12345",
-        "date": "2026-08-15T04:00:00.000Z"
+        "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+        "link": "https://arxiv.org/abs/2608.13565",
+        "date": "2026-08-17T04:00:00.000Z"
       },
       {
-        "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-        "link": "https://arxiv.org/abs/2608.12346",
-        "date": "2026-08-15T04:00:00.000Z"
+        "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+        "link": "https://arxiv.org/abs/2608.13567",
+        "date": "2026-08-17T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
