@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T18:50:46.987Z",
+  "generated": "2026-08-17T21:32:34.925Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "What Flock’s defenders are missing",
+        "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+        "date": "2026-08-17T19:16:09.000Z"
+      },
+      {
         "title": "What happens when a kid’s robot best friend dies?",
         "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
         "date": "2026-08-17T09:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "Flock is tightening its rules in response to a growing surveillance backlash",
         "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
         "date": "2026-08-13T13:41:10.000Z"
-      },
-      {
-        "title": "How kids feel about AI, in their own words",
-        "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-        "date": "2026-08-13T09:00:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
