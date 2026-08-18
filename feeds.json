@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T09:40:43.181Z",
+  "generated": "2026-08-18T12:59:57.404Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,19 +38,19 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "We still don’t know how people are really using AI",
+        "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+        "date": "2026-08-18T10:06:43.000Z"
+      },
+      {
+        "title": "AI’s recursive self-improvement might not come so quickly after all",
+        "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+        "date": "2026-08-18T09:00:00.000Z"
+      },
+      {
         "title": "What Flock’s defenders are missing",
         "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
         "date": "2026-08-17T19:16:09.000Z"
-      },
-      {
-        "title": "What happens when a kid’s robot best friend dies?",
-        "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-        "date": "2026-08-17T09:00:00.000Z"
-      },
-      {
-        "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-        "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-        "date": "2026-08-13T13:41:10.000Z"
       }
     ],
     "arXiv — cs.AI": [
