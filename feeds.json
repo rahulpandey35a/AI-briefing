@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T03:51:04.914Z",
+  "generated": "2026-08-18T06:56:03.796Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
-        "link": "https://arxiv.org/abs/2608.13564",
-        "date": "2026-08-17T04:00:00.000Z"
+        "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+        "link": "https://arxiv.org/abs/2608.14550",
+        "date": "2026-08-18T04:00:00.000Z"
       },
       {
-        "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
-        "link": "https://arxiv.org/abs/2608.13565",
-        "date": "2026-08-17T04:00:00.000Z"
+        "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+        "link": "https://arxiv.org/abs/2608.14552",
+        "date": "2026-08-18T04:00:00.000Z"
       },
       {
-        "title": "Modular Cognitive Architecture Emerges in Large Language Models",
-        "link": "https://arxiv.org/abs/2608.13567",
-        "date": "2026-08-17T04:00:00.000Z"
+        "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+        "link": "https://arxiv.org/abs/2608.14558",
+        "date": "2026-08-18T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
