@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T03:52:20.464Z",
+  "generated": "2026-08-19T06:56:05.979Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
-        "link": "https://arxiv.org/abs/2608.14550",
-        "date": "2026-08-18T04:00:00.000Z"
+        "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+        "link": "https://arxiv.org/abs/2608.16890",
+        "date": "2026-08-19T04:00:00.000Z"
       },
       {
-        "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
-        "link": "https://arxiv.org/abs/2608.14552",
-        "date": "2026-08-18T04:00:00.000Z"
+        "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+        "link": "https://arxiv.org/abs/2608.16891",
+        "date": "2026-08-19T04:00:00.000Z"
       },
       {
-        "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
-        "link": "https://arxiv.org/abs/2608.14558",
-        "date": "2026-08-18T04:00:00.000Z"
+        "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+        "link": "https://arxiv.org/abs/2608.16956",
+        "date": "2026-08-19T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
