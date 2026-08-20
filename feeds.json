@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T09:42:39.925Z",
+  "generated": "2026-08-20T13:03:14.787Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Unlocking hidden revenue streams with market models",
+        "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+        "date": "2026-08-20T09:47:22.000Z"
+      },
+      {
         "title": "We still don’t know how people are really using AI",
         "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
         "date": "2026-08-18T10:06:43.000Z"
@@ -46,11 +51,6 @@
         "title": "AI’s recursive self-improvement might not come so quickly after all",
         "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
         "date": "2026-08-18T09:00:00.000Z"
-      },
-      {
-        "title": "What Flock’s defenders are missing",
-        "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-        "date": "2026-08-17T19:16:09.000Z"
       }
     ],
     "arXiv — cs.AI": [
