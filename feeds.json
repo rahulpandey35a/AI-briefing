@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T07:12:22.981Z",
+  "generated": "2026-08-24T09:56:43.907Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Kids outlearn AI—and we still don’t know why",
+        "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+        "date": "2026-08-24T09:00:00.000Z"
+      },
+      {
         "title": "Debates over AI consciousness are a trap",
         "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
         "date": "2026-08-20T15:42:39.000Z"
@@ -46,11 +51,6 @@
         "title": "Unlocking hidden revenue streams with market models",
         "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
         "date": "2026-08-20T09:47:22.000Z"
-      },
-      {
-        "title": "We still don’t know how people are really using AI",
-        "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-        "date": "2026-08-18T10:06:43.000Z"
       }
     ],
     "arXiv — cs.AI": [
