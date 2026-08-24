@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T04:00:37.500Z",
+  "generated": "2026-08-24T07:12:22.981Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-        "link": "https://arxiv.org/abs/2608.18078",
-        "date": "2026-08-21T04:00:00.000Z"
+        "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+        "link": "https://arxiv.org/abs/2608.20341",
+        "date": "2026-08-24T04:00:00.000Z"
       },
       {
-        "title": "Position: Profiling Game Worlds by Transition Complexity",
-        "link": "https://arxiv.org/abs/2608.18079",
-        "date": "2026-08-21T04:00:00.000Z"
+        "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+        "link": "https://arxiv.org/abs/2608.20342",
+        "date": "2026-08-24T04:00:00.000Z"
       },
       {
-        "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-        "link": "https://arxiv.org/abs/2608.18080",
-        "date": "2026-08-21T04:00:00.000Z"
+        "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+        "link": "https://arxiv.org/abs/2608.20378",
+        "date": "2026-08-24T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
