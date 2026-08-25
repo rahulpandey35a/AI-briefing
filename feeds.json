@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T03:54:34.517Z",
+  "generated": "2026-08-25T07:00:01.196Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
-        "link": "https://arxiv.org/abs/2608.20341",
-        "date": "2026-08-24T04:00:00.000Z"
+        "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+        "link": "https://arxiv.org/abs/2608.21362",
+        "date": "2026-08-25T04:00:00.000Z"
       },
       {
-        "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
-        "link": "https://arxiv.org/abs/2608.20342",
-        "date": "2026-08-24T04:00:00.000Z"
+        "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+        "link": "https://arxiv.org/abs/2608.21363",
+        "date": "2026-08-25T04:00:00.000Z"
       },
       {
-        "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
-        "link": "https://arxiv.org/abs/2608.20378",
-        "date": "2026-08-24T04:00:00.000Z"
+        "title": "Reviewing Model Collapse and Countermeasures",
+        "link": "https://arxiv.org/abs/2608.21366",
+        "date": "2026-08-25T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
