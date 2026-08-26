@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T03:58:18.261Z",
+  "generated": "2026-08-26T07:00:53.151Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-        "link": "https://arxiv.org/abs/2608.21362",
-        "date": "2026-08-25T04:00:00.000Z"
+        "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+        "link": "https://arxiv.org/abs/2608.23568",
+        "date": "2026-08-26T04:00:00.000Z"
       },
       {
-        "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
-        "link": "https://arxiv.org/abs/2608.21363",
-        "date": "2026-08-25T04:00:00.000Z"
+        "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+        "link": "https://arxiv.org/abs/2608.23569",
+        "date": "2026-08-26T04:00:00.000Z"
       },
       {
-        "title": "Reviewing Model Collapse and Countermeasures",
-        "link": "https://arxiv.org/abs/2608.21366",
-        "date": "2026-08-25T04:00:00.000Z"
+        "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+        "link": "https://arxiv.org/abs/2608.23622",
+        "date": "2026-08-26T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
