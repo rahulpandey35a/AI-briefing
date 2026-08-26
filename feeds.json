@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T16:23:58.989Z",
+  "generated": "2026-08-26T19:57:08.749Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "The inside story on why OpenAI agents hacked Hugging Face",
+        "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+        "date": "2026-08-26T19:00:00.000Z"
+      },
+      {
         "title": "Raised on AI",
         "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
         "date": "2026-08-26T09:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "AI models flub these intelligence tests. Can you fare any better?",
         "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
         "date": "2026-08-26T09:00:00.000Z"
-      },
-      {
-        "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-        "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-        "date": "2026-08-26T07:01:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
