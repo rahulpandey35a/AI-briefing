@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T07:00:53.151Z",
+  "generated": "2026-08-26T09:51:18.399Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,19 +38,19 @@
     ],
     "MIT Technology Review": [
       {
-        "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-        "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-        "date": "2026-08-25T09:00:00.000Z"
+        "title": "Raised on AI",
+        "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+        "date": "2026-08-26T09:00:00.000Z"
       },
       {
-        "title": "How to encourage smarter AI use in the classroom",
-        "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-        "date": "2026-08-24T14:20:19.000Z"
+        "title": "AI models flub these intelligence tests. Can you fare any better?",
+        "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+        "date": "2026-08-26T09:00:00.000Z"
       },
       {
-        "title": "Kids outlearn AI—and we still don’t know why",
-        "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-        "date": "2026-08-24T09:00:00.000Z"
+        "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+        "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+        "date": "2026-08-26T07:01:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
