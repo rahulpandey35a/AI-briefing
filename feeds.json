@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27T00:37:40.853Z",
+  "generated": "2026-08-27T14:03:38.727Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
         "link": "https://arxiv.org/abs/2608.23568",
-        "date": "2026-08-26T04:00:00.000Z"
+        "date": "2026-08-27T04:00:00.000Z"
       },
       {
         "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
         "link": "https://arxiv.org/abs/2608.23569",
-        "date": "2026-08-26T04:00:00.000Z"
+        "date": "2026-08-27T04:00:00.000Z"
       },
       {
         "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
         "link": "https://arxiv.org/abs/2608.23622",
-        "date": "2026-08-26T04:00:00.000Z"
+        "date": "2026-08-27T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
