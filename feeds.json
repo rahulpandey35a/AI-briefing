@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30T23:23:03.185Z",
+  "generated": "2026-08-31T05:12:29.771Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-        "link": "https://arxiv.org/abs/2608.26107",
-        "date": "2026-08-28T04:00:00.000Z"
+        "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
+        "link": "https://arxiv.org/abs/2608.27459",
+        "date": "2026-08-31T04:00:00.000Z"
       },
       {
-        "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-        "link": "https://arxiv.org/abs/2608.26109",
-        "date": "2026-08-28T04:00:00.000Z"
+        "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
+        "link": "https://arxiv.org/abs/2608.27463",
+        "date": "2026-08-31T04:00:00.000Z"
       },
       {
-        "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-        "link": "https://arxiv.org/abs/2608.26111",
-        "date": "2026-08-28T04:00:00.000Z"
+        "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
+        "link": "https://arxiv.org/abs/2608.27464",
+        "date": "2026-08-31T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
