@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T00:31:48.390Z",
+  "generated": "2026-09-01T08:32:32.060Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
         "link": "https://arxiv.org/abs/2608.27459",
-        "date": "2026-08-31T04:00:00.000Z"
+        "date": "2026-09-01T04:00:00.000Z"
       },
       {
         "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
         "link": "https://arxiv.org/abs/2608.27463",
-        "date": "2026-08-31T04:00:00.000Z"
+        "date": "2026-09-01T04:00:00.000Z"
       },
       {
         "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
         "link": "https://arxiv.org/abs/2608.27464",
-        "date": "2026-08-31T04:00:00.000Z"
+        "date": "2026-09-01T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
