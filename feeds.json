@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T23:14:00.347Z",
+  "generated": "2026-09-02T04:09:32.436Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
-        "link": "https://arxiv.org/abs/2608.27459",
-        "date": "2026-09-01T04:00:00.000Z"
+        "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+        "link": "https://arxiv.org/abs/2609.00002",
+        "date": "2026-09-02T04:00:00.000Z"
       },
       {
-        "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
-        "link": "https://arxiv.org/abs/2608.27463",
-        "date": "2026-09-01T04:00:00.000Z"
+        "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+        "link": "https://arxiv.org/abs/2609.00003",
+        "date": "2026-09-02T04:00:00.000Z"
       },
       {
-        "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
-        "link": "https://arxiv.org/abs/2608.27464",
-        "date": "2026-09-01T04:00:00.000Z"
+        "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+        "link": "https://arxiv.org/abs/2609.00004",
+        "date": "2026-09-02T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
