@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T23:13:57.766Z",
+  "generated": "2026-09-03T04:05:56.286Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
-        "link": "https://arxiv.org/abs/2609.00002",
-        "date": "2026-09-02T04:00:00.000Z"
+        "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+        "link": "https://arxiv.org/abs/2609.01611",
+        "date": "2026-09-03T04:00:00.000Z"
       },
       {
-        "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
-        "link": "https://arxiv.org/abs/2609.00003",
-        "date": "2026-09-02T04:00:00.000Z"
+        "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+        "link": "https://arxiv.org/abs/2609.01685",
+        "date": "2026-09-03T04:00:00.000Z"
       },
       {
-        "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
-        "link": "https://arxiv.org/abs/2609.00004",
-        "date": "2026-09-02T04:00:00.000Z"
+        "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+        "link": "https://arxiv.org/abs/2609.01741",
+        "date": "2026-09-03T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
