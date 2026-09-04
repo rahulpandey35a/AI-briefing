@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T23:12:04.031Z",
+  "generated": "2026-09-04T04:11:14.710Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
-        "link": "https://arxiv.org/abs/2609.01611",
-        "date": "2026-09-03T04:00:00.000Z"
+        "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+        "link": "https://arxiv.org/abs/2609.02981",
+        "date": "2026-09-04T04:00:00.000Z"
       },
       {
-        "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
-        "link": "https://arxiv.org/abs/2609.01685",
-        "date": "2026-09-03T04:00:00.000Z"
+        "title": "MasterControl Seventeen Every Time",
+        "link": "https://arxiv.org/abs/2609.03209",
+        "date": "2026-09-04T04:00:00.000Z"
       },
       {
-        "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
-        "link": "https://arxiv.org/abs/2609.01741",
-        "date": "2026-09-03T04:00:00.000Z"
+        "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+        "link": "https://arxiv.org/abs/2609.03236",
+        "date": "2026-09-04T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
