@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T22:58:01.460Z",
+  "generated": "2026-09-05T04:07:53.951Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
         "link": "https://arxiv.org/abs/2609.02981",
-        "date": "2026-09-04T04:00:00.000Z"
+        "date": "2026-09-05T04:00:00.000Z"
       },
       {
         "title": "MasterControl Seventeen Every Time",
         "link": "https://arxiv.org/abs/2609.03209",
-        "date": "2026-09-04T04:00:00.000Z"
+        "date": "2026-09-05T04:00:00.000Z"
       },
       {
         "title": "Speculative Macro Commit for Faster Tool-Using Agents",
         "link": "https://arxiv.org/abs/2609.03236",
-        "date": "2026-09-04T04:00:00.000Z"
+        "date": "2026-09-05T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
