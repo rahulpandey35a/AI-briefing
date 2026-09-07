@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T22:51:54.572Z",
+  "generated": "2026-09-07T04:14:58.850Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-        "link": "https://arxiv.org/abs/2609.02981",
-        "date": "2026-09-05T04:00:00.000Z"
+        "title": "EXAONE Forecast for Finance",
+        "link": "https://arxiv.org/abs/2609.04239",
+        "date": "2026-09-07T04:00:00.000Z"
       },
       {
-        "title": "MasterControl Seventeen Every Time",
-        "link": "https://arxiv.org/abs/2609.03209",
-        "date": "2026-09-05T04:00:00.000Z"
+        "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+        "link": "https://arxiv.org/abs/2609.04286",
+        "date": "2026-09-07T04:00:00.000Z"
       },
       {
-        "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-        "link": "https://arxiv.org/abs/2609.03236",
-        "date": "2026-09-05T04:00:00.000Z"
+        "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+        "link": "https://arxiv.org/abs/2609.04298",
+        "date": "2026-09-07T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
