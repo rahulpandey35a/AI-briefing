@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T04:22:26.730Z",
+  "generated": "2026-09-09T11:09:30.147Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "EXAONE Forecast for Finance",
-        "link": "https://arxiv.org/abs/2609.04239",
-        "date": "2026-09-07T04:00:00.000Z"
+        "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+        "link": "https://arxiv.org/abs/2609.05437",
+        "date": "2026-09-09T04:00:00.000Z"
       },
       {
-        "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
-        "link": "https://arxiv.org/abs/2609.04286",
-        "date": "2026-09-07T04:00:00.000Z"
+        "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+        "link": "https://arxiv.org/abs/2609.05439",
+        "date": "2026-09-09T04:00:00.000Z"
       },
       {
-        "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
-        "link": "https://arxiv.org/abs/2609.04298",
-        "date": "2026-09-07T04:00:00.000Z"
+        "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+        "link": "https://arxiv.org/abs/2609.05441",
+        "date": "2026-09-09T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
