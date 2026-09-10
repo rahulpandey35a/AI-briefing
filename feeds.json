@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T23:08:35.267Z",
+  "generated": "2026-09-10T04:19:13.030Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
-        "link": "https://arxiv.org/abs/2609.05437",
-        "date": "2026-09-09T04:00:00.000Z"
+        "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+        "link": "https://arxiv.org/abs/2609.09203",
+        "date": "2026-09-10T04:00:00.000Z"
       },
       {
-        "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
-        "link": "https://arxiv.org/abs/2609.05439",
-        "date": "2026-09-09T04:00:00.000Z"
+        "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+        "link": "https://arxiv.org/abs/2609.09226",
+        "date": "2026-09-10T04:00:00.000Z"
       },
       {
-        "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
-        "link": "https://arxiv.org/abs/2609.05441",
-        "date": "2026-09-09T04:00:00.000Z"
+        "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+        "link": "https://arxiv.org/abs/2609.09233",
+        "date": "2026-09-10T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
