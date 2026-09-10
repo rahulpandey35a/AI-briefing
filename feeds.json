@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T11:06:01.942Z",
+  "generated": "2026-09-10T16:16:30.472Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Powering AI is an architecture problem",
+        "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+        "date": "2026-09-10T11:00:00.000Z"
+      },
+      {
         "title": "What OpenAI’s latest controversy tells us about the future of math",
         "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
         "date": "2026-09-09T03:10:08.000Z"
@@ -46,11 +51,6 @@
         "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
         "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
         "date": "2026-09-08T10:34:00.000Z"
-      },
-      {
-        "title": "Architecting memory and storage in the AI era",
-        "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-        "date": "2026-09-04T18:39:19.000Z"
       }
     ],
     "arXiv — cs.AI": [
