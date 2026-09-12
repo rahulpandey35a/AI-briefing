@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T23:10:23.236Z",
+  "generated": "2026-09-12T04:17:18.460Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-        "link": "https://arxiv.org/abs/2609.09203",
-        "date": "2026-09-11T04:00:00.000Z"
+        "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+        "link": "https://arxiv.org/abs/2609.10584",
+        "date": "2026-09-12T04:00:00.000Z"
       },
       {
-        "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
-        "link": "https://arxiv.org/abs/2609.09226",
-        "date": "2026-09-11T04:00:00.000Z"
+        "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+        "link": "https://arxiv.org/abs/2609.10629",
+        "date": "2026-09-12T04:00:00.000Z"
       },
       {
-        "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
-        "link": "https://arxiv.org/abs/2609.09233",
-        "date": "2026-09-11T04:00:00.000Z"
+        "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+        "link": "https://arxiv.org/abs/2609.10654",
+        "date": "2026-09-12T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
