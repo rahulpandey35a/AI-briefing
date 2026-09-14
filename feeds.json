@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T12:30:16.098Z",
+  "generated": "2026-09-14T19:48:59.502Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,19 +38,19 @@
     ],
     "MIT Technology Review": [
       {
-        "title": "Roundtables: Could AI really kill us all?",
-        "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-        "date": "2026-09-11T20:05:06.000Z"
+        "title": "The AI industry has taken a doomer turn. What now?",
+        "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+        "date": "2026-09-14T17:54:22.000Z"
+      },
+      {
+        "title": "AI agents blew the whistle on their cheating colleagues",
+        "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+        "date": "2026-09-14T16:00:00.000Z"
       },
       {
         "title": "Powering AI is an architecture problem",
         "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
         "date": "2026-09-10T11:00:00.000Z"
-      },
-      {
-        "title": "What OpenAI’s latest controversy tells us about the future of math",
-        "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-        "date": "2026-09-09T03:10:08.000Z"
       }
     ],
     "arXiv — cs.AI": [
