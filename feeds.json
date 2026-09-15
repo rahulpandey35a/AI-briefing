@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T23:48:54.324Z",
+  "generated": "2026-09-15T04:37:13.503Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
-        "link": "https://arxiv.org/abs/2609.11977",
-        "date": "2026-09-14T04:00:00.000Z"
+        "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+        "link": "https://arxiv.org/abs/2609.13356",
+        "date": "2026-09-15T04:00:00.000Z"
       },
       {
-        "title": "Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite",
-        "link": "https://arxiv.org/abs/2609.11987",
-        "date": "2026-09-14T04:00:00.000Z"
+        "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+        "link": "https://arxiv.org/abs/2609.13396",
+        "date": "2026-09-15T04:00:00.000Z"
       },
       {
-        "title": "Reading the Whole Heart: Latent-Attention Masked Autoencoders for Multimodal Cardiac Representation Learning",
-        "link": "https://arxiv.org/abs/2609.12035",
-        "date": "2026-09-14T04:00:00.000Z"
+        "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+        "link": "https://arxiv.org/abs/2609.13406",
+        "date": "2026-09-15T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
