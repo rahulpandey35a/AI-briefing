@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T04:37:13.503Z",
+  "generated": "2026-09-15T11:33:45.354Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+        "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+        "date": "2026-09-15T10:00:00.000Z"
+      },
+      {
         "title": "The AI industry has taken a doomer turn. What now?",
         "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
         "date": "2026-09-14T17:54:22.000Z"
@@ -46,11 +51,6 @@
         "title": "AI agents blew the whistle on their cheating colleagues",
         "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
         "date": "2026-09-14T16:00:00.000Z"
-      },
-      {
-        "title": "Roundtables: Could AI really kill us all?",
-        "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-        "date": "2026-09-11T20:05:06.000Z"
       }
     ],
     "arXiv — cs.AI": [
