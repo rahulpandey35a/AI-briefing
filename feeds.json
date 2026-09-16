@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T11:20:26.951Z",
+  "generated": "2026-09-16T16:40:43.211Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Building the materials foundation for AI",
+        "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+        "date": "2026-09-16T12:47:34.000Z"
+      },
+      {
         "title": "Roundtables: Could AI really kill us all?",
         "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
         "date": "2026-09-15T17:47:51.000Z"
@@ -46,11 +51,6 @@
         "title": "What’s at stake in AI’s trillion-dollar gamble",
         "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
         "date": "2026-09-15T10:00:00.000Z"
-      },
-      {
-        "title": "The AI industry has taken a doomer turn. What now?",
-        "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-        "date": "2026-09-14T17:54:22.000Z"
       }
     ],
     "arXiv — cs.AI": [
