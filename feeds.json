@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T21:10:15.961Z",
+  "generated": "2026-09-16T04:31:56.954Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
         "link": "https://arxiv.org/abs/2609.13356",
-        "date": "2026-09-15T04:00:00.000Z"
+        "date": "2026-09-16T04:00:00.000Z"
       },
       {
         "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
         "link": "https://arxiv.org/abs/2609.13396",
-        "date": "2026-09-15T04:00:00.000Z"
+        "date": "2026-09-16T04:00:00.000Z"
       },
       {
         "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
         "link": "https://arxiv.org/abs/2609.13406",
-        "date": "2026-09-15T04:00:00.000Z"
+        "date": "2026-09-16T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
