@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T21:12:12.454Z",
+  "generated": "2026-09-17T04:37:45.371Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-        "link": "https://arxiv.org/abs/2609.13356",
-        "date": "2026-09-16T04:00:00.000Z"
+        "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+        "link": "https://arxiv.org/abs/2609.17631",
+        "date": "2026-09-17T04:00:00.000Z"
       },
       {
-        "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
-        "link": "https://arxiv.org/abs/2609.13396",
-        "date": "2026-09-16T04:00:00.000Z"
+        "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+        "link": "https://arxiv.org/abs/2609.17632",
+        "date": "2026-09-17T04:00:00.000Z"
       },
       {
-        "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
-        "link": "https://arxiv.org/abs/2609.13406",
-        "date": "2026-09-16T04:00:00.000Z"
+        "title": "One Color Preprocessing Improves DSATUR",
+        "link": "https://arxiv.org/abs/2609.17633",
+        "date": "2026-09-17T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
