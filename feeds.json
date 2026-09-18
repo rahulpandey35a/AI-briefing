@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T21:13:30.946Z",
+  "generated": "2026-09-18T04:23:02.270Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
-        "link": "https://arxiv.org/abs/2609.17631",
-        "date": "2026-09-17T04:00:00.000Z"
+        "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+        "link": "https://arxiv.org/abs/2609.19170",
+        "date": "2026-09-18T04:00:00.000Z"
       },
       {
-        "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-        "link": "https://arxiv.org/abs/2609.17632",
-        "date": "2026-09-17T04:00:00.000Z"
+        "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+        "link": "https://arxiv.org/abs/2609.19180",
+        "date": "2026-09-18T04:00:00.000Z"
       },
       {
-        "title": "One Color Preprocessing Improves DSATUR",
-        "link": "https://arxiv.org/abs/2609.17633",
-        "date": "2026-09-17T04:00:00.000Z"
+        "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+        "link": "https://arxiv.org/abs/2609.19182",
+        "date": "2026-09-18T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
