@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T23:09:14.066Z",
+  "generated": "2026-09-21T04:36:57.474Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
-        "link": "https://arxiv.org/abs/2609.19170",
-        "date": "2026-09-18T04:00:00.000Z"
+        "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+        "link": "https://arxiv.org/abs/2609.20971",
+        "date": "2026-09-21T04:00:00.000Z"
       },
       {
-        "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
-        "link": "https://arxiv.org/abs/2609.19180",
-        "date": "2026-09-18T04:00:00.000Z"
+        "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+        "link": "https://arxiv.org/abs/2609.20974",
+        "date": "2026-09-21T04:00:00.000Z"
       },
       {
-        "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-        "link": "https://arxiv.org/abs/2609.19182",
-        "date": "2026-09-18T04:00:00.000Z"
+        "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+        "link": "https://arxiv.org/abs/2609.20981",
+        "date": "2026-09-21T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
