@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T11:23:52.947Z",
+  "generated": "2026-09-22T16:46:07.328Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+        "date": "2026-09-22T13:42:05.000Z"
+      },
+      {
         "title": "Don’t be fooled by this summer of AI hype",
         "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
         "date": "2026-09-22T11:04:51.000Z"
@@ -45,11 +50,6 @@
       {
         "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
         "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-        "date": "2026-09-21T12:00:00.000Z"
-      },
-      {
-        "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-        "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
         "date": "2026-09-21T12:00:00.000Z"
       }
     ],
