@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T23:59:20.459Z",
+  "generated": "2026-09-22T04:44:32.061Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
         "link": "https://arxiv.org/abs/2609.20971",
-        "date": "2026-09-21T04:00:00.000Z"
+        "date": "2026-09-22T04:00:00.000Z"
       },
       {
         "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
         "link": "https://arxiv.org/abs/2609.20974",
-        "date": "2026-09-21T04:00:00.000Z"
+        "date": "2026-09-22T04:00:00.000Z"
       },
       {
         "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
         "link": "https://arxiv.org/abs/2609.20981",
-        "date": "2026-09-21T04:00:00.000Z"
+        "date": "2026-09-22T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
