@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T21:11:21.351Z",
+  "generated": "2026-09-23T04:29:25.131Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-        "link": "https://arxiv.org/abs/2609.20971",
-        "date": "2026-09-22T04:00:00.000Z"
+        "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
+        "link": "https://arxiv.org/abs/2609.25010",
+        "date": "2026-09-23T04:00:00.000Z"
       },
       {
-        "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-        "link": "https://arxiv.org/abs/2609.20974",
-        "date": "2026-09-22T04:00:00.000Z"
+        "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
+        "link": "https://arxiv.org/abs/2609.25013",
+        "date": "2026-09-23T04:00:00.000Z"
       },
       {
-        "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-        "link": "https://arxiv.org/abs/2609.20981",
-        "date": "2026-09-22T04:00:00.000Z"
+        "title": "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting",
+        "link": "https://arxiv.org/abs/2609.25036",
+        "date": "2026-09-23T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
