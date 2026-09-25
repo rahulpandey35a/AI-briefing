@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T04:37:47.561Z",
+  "generated": "2026-09-25T11:39:39.370Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+        "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+        "date": "2026-09-25T09:16:25.000Z"
+      },
+      {
         "title": "The AI Hype Index: AI loves cheating",
         "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
         "date": "2026-09-23T09:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
         "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
         "date": "2026-09-22T13:42:05.000Z"
-      },
-      {
-        "title": "Don’t be fooled by this summer of AI hype",
-        "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-        "date": "2026-09-22T11:04:51.000Z"
       }
     ],
     "arXiv — cs.AI": [
