@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T21:25:46.985Z",
+  "generated": "2026-09-25T04:37:47.561Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
-        "link": "https://arxiv.org/abs/2609.25010",
-        "date": "2026-09-24T04:00:00.000Z"
+        "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+        "link": "https://arxiv.org/abs/2609.28475",
+        "date": "2026-09-25T04:00:00.000Z"
       },
       {
-        "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
-        "link": "https://arxiv.org/abs/2609.25013",
-        "date": "2026-09-24T04:00:00.000Z"
+        "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+        "link": "https://arxiv.org/abs/2609.28506",
+        "date": "2026-09-25T04:00:00.000Z"
       },
       {
-        "title": "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting",
-        "link": "https://arxiv.org/abs/2609.25036",
-        "date": "2026-09-24T04:00:00.000Z"
+        "title": "PAWS: Policy-driven Agentic World Simulation",
+        "link": "https://arxiv.org/abs/2609.28547",
+        "date": "2026-09-25T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
