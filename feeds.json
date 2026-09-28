@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T21:14:45.767Z",
+  "generated": "2026-09-28T05:03:26.697Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
-        "link": "https://arxiv.org/abs/2609.28475",
-        "date": "2026-09-25T04:00:00.000Z"
+        "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+        "link": "https://arxiv.org/abs/2609.30291",
+        "date": "2026-09-28T04:00:00.000Z"
       },
       {
-        "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
-        "link": "https://arxiv.org/abs/2609.28506",
-        "date": "2026-09-25T04:00:00.000Z"
+        "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+        "link": "https://arxiv.org/abs/2609.30325",
+        "date": "2026-09-28T04:00:00.000Z"
       },
       {
-        "title": "PAWS: Policy-driven Agentic World Simulation",
-        "link": "https://arxiv.org/abs/2609.28547",
-        "date": "2026-09-25T04:00:00.000Z"
+        "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+        "link": "https://arxiv.org/abs/2609.30328",
+        "date": "2026-09-28T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
