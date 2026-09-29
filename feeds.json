@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T05:28:01.297Z",
+  "generated": "2026-09-29T12:38:01.454Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Making AI an asset, not an expense",
+        "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+        "date": "2026-09-29T10:43:45.000Z"
+      },
+      {
         "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
         "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
         "date": "2026-09-28T22:17:07.000Z"
@@ -46,11 +51,6 @@
         "title": "When can we say AI made a scientific discovery?",
         "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
         "date": "2026-09-28T17:03:16.000Z"
-      },
-      {
-        "title": "Who’s liable when AI agents go rogue?",
-        "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-        "date": "2026-09-28T08:06:22.000Z"
       }
     ],
     "arXiv — cs.AI": [
