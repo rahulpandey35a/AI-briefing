@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T00:17:36.946Z",
+  "generated": "2026-09-30T09:34:27.018Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support",
-        "link": "https://arxiv.org/abs/2609.31763",
-        "date": "2026-09-29T04:00:00.000Z"
+        "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+        "link": "https://arxiv.org/abs/2609.35799",
+        "date": "2026-09-30T04:00:00.000Z"
       },
       {
-        "title": "Witeness Overlap: Directional Provenance Inside Open-Weight Model Families",
-        "link": "https://arxiv.org/abs/2609.31784",
-        "date": "2026-09-29T04:00:00.000Z"
+        "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+        "link": "https://arxiv.org/abs/2609.35833",
+        "date": "2026-09-30T04:00:00.000Z"
       },
       {
-        "title": "CP-Agent: A Harness-Engineered Agent for Crystal Plasticity Simulation Workflows",
-        "link": "https://arxiv.org/abs/2609.31790",
-        "date": "2026-09-29T04:00:00.000Z"
+        "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+        "link": "https://arxiv.org/abs/2609.35868",
+        "date": "2026-09-30T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
