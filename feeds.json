@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T09:34:27.018Z",
+  "generated": "2026-09-30T17:56:29.910Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+        "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+        "date": "2026-09-30T10:40:30.000Z"
+      },
+      {
         "title": "Making AI an asset, not an expense",
         "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
         "date": "2026-09-29T10:43:45.000Z"
@@ -46,11 +51,6 @@
         "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
         "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
         "date": "2026-09-28T22:17:07.000Z"
-      },
-      {
-        "title": "When can we say AI made a scientific discovery?",
-        "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-        "date": "2026-09-28T17:03:16.000Z"
       }
     ],
     "arXiv — cs.AI": [
