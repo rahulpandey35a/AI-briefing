@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T22:09:20.500Z",
+  "generated": "2026-10-01T05:30:49.107Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
-        "link": "https://arxiv.org/abs/2609.35799",
-        "date": "2026-09-30T04:00:00.000Z"
+        "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+        "link": "https://arxiv.org/abs/2609.38282",
+        "date": "2026-10-01T04:00:00.000Z"
       },
       {
-        "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
-        "link": "https://arxiv.org/abs/2609.35833",
-        "date": "2026-09-30T04:00:00.000Z"
+        "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+        "link": "https://arxiv.org/abs/2609.38288",
+        "date": "2026-10-01T04:00:00.000Z"
       },
       {
-        "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
-        "link": "https://arxiv.org/abs/2609.35868",
-        "date": "2026-09-30T04:00:00.000Z"
+        "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+        "link": "https://arxiv.org/abs/2609.38294",
+        "date": "2026-10-01T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
