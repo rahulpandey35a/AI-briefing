@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T09:37:02.015Z",
+  "generated": "2026-10-02T17:47:04.148Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Redefining enterprise intelligence with autonomous AI",
+        "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+        "date": "2026-10-02T15:49:04.000Z"
+      },
+      {
         "title": "Don’t be fooled—LLMs don’t reason",
         "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
         "date": "2026-10-02T08:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
         "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
         "date": "2026-09-30T10:40:30.000Z"
-      },
-      {
-        "title": "Making AI an asset, not an expense",
-        "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-        "date": "2026-09-29T10:43:45.000Z"
       }
     ],
     "arXiv — cs.AI": [
