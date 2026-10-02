@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T00:39:09.956Z",
+  "generated": "2026-10-02T09:37:02.015Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Don’t be fooled—LLMs don’t reason",
+        "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+        "date": "2026-10-02T08:00:00.000Z"
+      },
+      {
         "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
         "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
         "date": "2026-09-30T10:40:30.000Z"
@@ -46,28 +51,23 @@
         "title": "Making AI an asset, not an expense",
         "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
         "date": "2026-09-29T10:43:45.000Z"
-      },
-      {
-        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-        "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-        "date": "2026-09-28T22:17:07.000Z"
       }
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
-        "link": "https://arxiv.org/abs/2609.38282",
-        "date": "2026-10-01T04:00:00.000Z"
+        "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+        "link": "https://arxiv.org/abs/2610.00010",
+        "date": "2026-10-02T04:00:00.000Z"
       },
       {
-        "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-        "link": "https://arxiv.org/abs/2609.38288",
-        "date": "2026-10-01T04:00:00.000Z"
+        "title": "When Do Causal World Models Help Modular LLM Agents",
+        "link": "https://arxiv.org/abs/2610.00012",
+        "date": "2026-10-02T04:00:00.000Z"
       },
       {
-        "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
-        "link": "https://arxiv.org/abs/2609.38294",
-        "date": "2026-10-01T04:00:00.000Z"
+        "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+        "link": "https://arxiv.org/abs/2610.00015",
+        "date": "2026-10-02T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
