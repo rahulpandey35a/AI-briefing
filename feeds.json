@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T21:56:46.546Z",
+  "generated": "2026-10-06T06:01:56.811Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
-        "link": "https://arxiv.org/abs/2610.02260",
-        "date": "2026-10-05T04:00:00.000Z"
+        "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
+        "link": "https://arxiv.org/abs/2610.03872",
+        "date": "2026-10-06T04:00:00.000Z"
       },
       {
-        "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
-        "link": "https://arxiv.org/abs/2610.02267",
-        "date": "2026-10-05T04:00:00.000Z"
+        "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
+        "link": "https://arxiv.org/abs/2610.03888",
+        "date": "2026-10-06T04:00:00.000Z"
       },
       {
-        "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
-        "link": "https://arxiv.org/abs/2610.02281",
-        "date": "2026-10-05T04:00:00.000Z"
+        "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
+        "link": "https://arxiv.org/abs/2610.03894",
+        "date": "2026-10-06T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
