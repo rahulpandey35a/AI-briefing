@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T00:54:46.904Z",
+  "generated": "2026-10-08T10:21:28.411Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,36 +38,36 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+        "date": "2026-10-08T09:00:00.000Z"
+      },
+      {
+        "title": "Building a safer path to autonomous industrial AI",
+        "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+        "date": "2026-10-08T08:17:32.000Z"
+      },
+      {
         "title": "Connecting AI agents to enterprise knowledge",
         "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
         "date": "2026-10-05T15:47:52.000Z"
-      },
-      {
-        "title": "Bringing predictive analytics to the agentic AI era",
-        "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-        "date": "2026-10-05T13:29:32.000Z"
-      },
-      {
-        "title": "People really hate AI, so why can’t they get enough?",
-        "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-        "date": "2026-10-05T08:00:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
-        "link": "https://arxiv.org/abs/2610.03872",
-        "date": "2026-10-07T04:00:00.000Z"
+        "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
+        "link": "https://arxiv.org/abs/2610.08793",
+        "date": "2026-10-08T04:00:00.000Z"
       },
       {
-        "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
-        "link": "https://arxiv.org/abs/2610.03888",
-        "date": "2026-10-07T04:00:00.000Z"
+        "title": "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization",
+        "link": "https://arxiv.org/abs/2610.08808",
+        "date": "2026-10-08T04:00:00.000Z"
       },
       {
-        "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
-        "link": "https://arxiv.org/abs/2610.03894",
-        "date": "2026-10-07T04:00:00.000Z"
+        "title": "Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain Reasoning",
+        "link": "https://arxiv.org/abs/2610.08814",
+        "date": "2026-10-08T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
