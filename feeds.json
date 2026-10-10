@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T00:41:08.984Z",
+  "generated": "2026-10-10T09:41:41.504Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
         "link": "https://arxiv.org/abs/2610.10541",
-        "date": "2026-10-09T04:00:00.000Z"
+        "date": "2026-10-10T04:00:00.000Z"
       },
       {
         "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
         "link": "https://arxiv.org/abs/2610.10549",
-        "date": "2026-10-09T04:00:00.000Z"
+        "date": "2026-10-10T04:00:00.000Z"
       },
       {
         "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
         "link": "https://arxiv.org/abs/2610.10590",
-        "date": "2026-10-09T04:00:00.000Z"
+        "date": "2026-10-10T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
