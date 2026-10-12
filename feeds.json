@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12T00:25:12.100Z",
+  "generated": "2026-10-12T10:35:27.361Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-        "link": "https://arxiv.org/abs/2610.10541",
-        "date": "2026-10-10T04:00:00.000Z"
+        "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+        "link": "https://arxiv.org/abs/2610.12493",
+        "date": "2026-10-12T04:00:00.000Z"
       },
       {
-        "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-        "link": "https://arxiv.org/abs/2610.10549",
-        "date": "2026-10-10T04:00:00.000Z"
+        "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+        "link": "https://arxiv.org/abs/2610.12536",
+        "date": "2026-10-12T04:00:00.000Z"
       },
       {
-        "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-        "link": "https://arxiv.org/abs/2610.10590",
-        "date": "2026-10-10T04:00:00.000Z"
+        "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+        "link": "https://arxiv.org/abs/2610.12542",
+        "date": "2026-10-12T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
