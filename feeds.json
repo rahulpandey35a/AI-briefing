@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T06:34:50.994Z",
+  "generated": "2026-10-13T16:52:45.130Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,19 +38,19 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Open models have real benefits. Do they outweigh the risks?",
+        "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+        "date": "2026-10-13T10:00:00.000Z"
+      },
+      {
+        "title": "AI labs are buying data from dead startups to train their models",
+        "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+        "date": "2026-10-13T09:00:00.000Z"
+      },
+      {
         "title": "We’re putting too much faith in AI’s ability to say no",
         "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
         "date": "2026-10-09T09:00:00.000Z"
-      },
-      {
-        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-        "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-        "date": "2026-10-09T00:08:24.000Z"
-      },
-      {
-        "title": "AI breakthroughs in robotics won’t change your life any time soon",
-        "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-        "date": "2026-10-08T09:00:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
