@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T04:35:51.160Z",
+  "generated": "2026-10-14T11:38:11.436Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
-        "link": "https://arxiv.org/abs/2610.12493",
-        "date": "2026-10-12T04:00:00.000Z"
+        "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+        "link": "https://arxiv.org/abs/2610.14005",
+        "date": "2026-10-14T04:00:00.000Z"
       },
       {
-        "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
-        "link": "https://arxiv.org/abs/2610.12536",
-        "date": "2026-10-12T04:00:00.000Z"
+        "title": "The Silent Failures in Agentic Data Science",
+        "link": "https://arxiv.org/abs/2610.14115",
+        "date": "2026-10-14T04:00:00.000Z"
       },
       {
-        "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
-        "link": "https://arxiv.org/abs/2610.12542",
-        "date": "2026-10-12T04:00:00.000Z"
+        "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+        "link": "https://arxiv.org/abs/2610.14118",
+        "date": "2026-10-14T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
