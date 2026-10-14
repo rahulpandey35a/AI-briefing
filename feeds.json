@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T16:59:58.800Z",
+  "generated": "2026-10-14T21:32:36.071Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -21,6 +21,11 @@
     ],
     "AI Snake Oil": [
       {
+        "title": "Steering AI Beyond Automation",
+        "link": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+        "date": "2026-10-14T19:56:44.000Z"
+      },
+      {
         "title": "A big-tent or small-tent AI safety movement?",
         "link": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
         "date": "2026-10-01T16:34:51.000Z"
@@ -29,11 +34,6 @@
         "title": "AI existential risk probabilities are (still) too unreliable to inform policy",
         "link": "https://www.normaltech.ai/p/p-doom",
         "date": "2026-09-28T11:13:47.000Z"
-      },
-      {
-        "title": "The AI-as-Normal-Technology view of loss-of-control incidents",
-        "link": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
-        "date": "2026-09-14T10:30:14.000Z"
       }
     ],
     "MIT Technology Review": [
