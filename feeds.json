@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T21:32:36.071Z",
+  "generated": "2026-10-15T04:18:23.594Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
         "link": "https://arxiv.org/abs/2610.14005",
-        "date": "2026-10-14T04:00:00.000Z"
+        "date": "2026-10-15T04:00:00.000Z"
       },
       {
         "title": "The Silent Failures in Agentic Data Science",
         "link": "https://arxiv.org/abs/2610.14115",
-        "date": "2026-10-14T04:00:00.000Z"
+        "date": "2026-10-15T04:00:00.000Z"
       },
       {
         "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
         "link": "https://arxiv.org/abs/2610.14118",
-        "date": "2026-10-14T04:00:00.000Z"
+        "date": "2026-10-15T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
