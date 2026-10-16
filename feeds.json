@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T21:14:05.782Z",
+  "generated": "2026-10-16T04:13:57.310Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-        "link": "https://arxiv.org/abs/2610.14005",
-        "date": "2026-10-15T04:00:00.000Z"
+        "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+        "link": "https://arxiv.org/abs/2610.20665",
+        "date": "2026-10-16T04:00:00.000Z"
       },
       {
-        "title": "The Silent Failures in Agentic Data Science",
-        "link": "https://arxiv.org/abs/2610.14115",
-        "date": "2026-10-15T04:00:00.000Z"
+        "title": "Evaluating Model Capabilities After Benchmark Saturation",
+        "link": "https://arxiv.org/abs/2610.20667",
+        "date": "2026-10-16T04:00:00.000Z"
       },
       {
-        "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-        "link": "https://arxiv.org/abs/2610.14118",
-        "date": "2026-10-15T04:00:00.000Z"
+        "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+        "link": "https://arxiv.org/abs/2610.20669",
+        "date": "2026-10-16T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
