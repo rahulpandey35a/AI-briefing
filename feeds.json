@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T23:25:18.857Z",
+  "generated": "2026-10-17T04:04:06.168Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
         "link": "https://arxiv.org/abs/2610.20665",
-        "date": "2026-10-16T04:00:00.000Z"
+        "date": "2026-10-17T04:00:00.000Z"
       },
       {
         "title": "Evaluating Model Capabilities After Benchmark Saturation",
         "link": "https://arxiv.org/abs/2610.20667",
-        "date": "2026-10-16T04:00:00.000Z"
+        "date": "2026-10-17T04:00:00.000Z"
       },
       {
         "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
         "link": "https://arxiv.org/abs/2610.20669",
-        "date": "2026-10-16T04:00:00.000Z"
+        "date": "2026-10-17T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
