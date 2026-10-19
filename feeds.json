@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T12:52:06.224Z",
+  "generated": "2026-10-19T20:31:11.728Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -21,6 +21,11 @@
     ],
     "AI Snake Oil": [
       {
+        "title": "New paper: Emerging trends in AI agent evaluation",
+        "link": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+        "date": "2026-10-19T20:11:55.000Z"
+      },
+      {
         "title": "Steering AI Beyond Automation",
         "link": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
         "date": "2026-10-14T19:56:44.000Z"
@@ -29,28 +34,23 @@
         "title": "A big-tent or small-tent AI safety movement?",
         "link": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
         "date": "2026-10-01T16:34:51.000Z"
-      },
-      {
-        "title": "AI existential risk probabilities are (still) too unreliable to inform policy",
-        "link": "https://www.normaltech.ai/p/p-doom",
-        "date": "2026-09-28T11:13:47.000Z"
       }
     ],
     "MIT Technology Review": [
       {
+        "title": "Making the internet better for AI agents might make it worse for everyone else",
+        "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+        "date": "2026-10-19T18:22:47.000Z"
+      },
+      {
+        "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+        "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+        "date": "2026-10-19T17:45:55.000Z"
+      },
+      {
         "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
         "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
         "date": "2026-10-19T09:08:05.000Z"
-      },
-      {
-        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-        "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-        "date": "2026-10-16T18:00:00.000Z"
-      },
-      {
-        "title": "Open models have real benefits. Do they outweigh the risks?",
-        "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-        "date": "2026-10-13T10:00:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
