@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T04:21:13.719Z",
+  "generated": "2026-10-19T12:52:06.224Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+        "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+        "date": "2026-10-19T09:08:05.000Z"
+      },
+      {
         "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
         "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
         "date": "2026-10-16T18:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "Open models have real benefits. Do they outweigh the risks?",
         "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
         "date": "2026-10-13T10:00:00.000Z"
-      },
-      {
-        "title": "AI labs are buying data from dead startups to train their models",
-        "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-        "date": "2026-10-13T09:00:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
