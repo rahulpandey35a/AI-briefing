@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T00:11:48.421Z",
+  "generated": "2026-10-20T08:24:08.401Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-        "link": "https://arxiv.org/abs/2610.20665",
-        "date": "2026-10-17T04:00:00.000Z"
+        "title": "GardenBench: A lightweight, daily evaluation of LLM capabilities",
+        "link": "https://arxiv.org/abs/2610.23866",
+        "date": "2026-10-20T04:00:00.000Z"
       },
       {
-        "title": "Evaluating Model Capabilities After Benchmark Saturation",
-        "link": "https://arxiv.org/abs/2610.20667",
-        "date": "2026-10-17T04:00:00.000Z"
+        "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
+        "link": "https://arxiv.org/abs/2610.23921",
+        "date": "2026-10-20T04:00:00.000Z"
       },
       {
-        "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
-        "link": "https://arxiv.org/abs/2610.20669",
-        "date": "2026-10-17T04:00:00.000Z"
+        "title": "A Controlled LLM Workflow for Evidence-Grounded Diagnosis of Risk Score Differences",
+        "link": "https://arxiv.org/abs/2610.23962",
+        "date": "2026-10-20T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
