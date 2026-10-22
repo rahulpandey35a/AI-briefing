@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T17:01:50.909Z",
+  "generated": "2026-10-22T21:26:27.998Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "The Foundations of Scalable AI",
+        "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+        "date": "2026-10-22T18:48:04.000Z"
+      },
+      {
         "title": "Making the case for context-aware AI",
         "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
         "date": "2026-10-22T10:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "AI’s hidden storage bill: What inference leaves behind",
         "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
         "date": "2026-10-22T08:41:18.000Z"
-      },
-      {
-        "title": "The new economics of enterprise AI",
-        "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-        "date": "2026-10-20T15:20:25.000Z"
       }
     ],
     "arXiv — cs.AI": [
