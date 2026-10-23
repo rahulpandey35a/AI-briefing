@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T21:26:27.998Z",
+  "generated": "2026-10-23T04:27:30.676Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Designing an AI serving harness built to last",
+        "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+        "date": "2026-10-22T21:17:29.000Z"
+      },
+      {
         "title": "The Foundations of Scalable AI",
         "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
         "date": "2026-10-22T18:48:04.000Z"
@@ -46,28 +51,23 @@
         "title": "Making the case for context-aware AI",
         "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
         "date": "2026-10-22T10:00:00.000Z"
-      },
-      {
-        "title": "AI’s hidden storage bill: What inference leaves behind",
-        "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-        "date": "2026-10-22T08:41:18.000Z"
       }
     ],
     "arXiv — cs.AI": [
       {
-        "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
-        "link": "https://arxiv.org/abs/2610.28686",
-        "date": "2026-10-22T04:00:00.000Z"
+        "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+        "link": "https://arxiv.org/abs/2610.30151",
+        "date": "2026-10-23T04:00:00.000Z"
       },
       {
-        "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-        "link": "https://arxiv.org/abs/2610.28698",
-        "date": "2026-10-22T04:00:00.000Z"
+        "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
+        "link": "https://arxiv.org/abs/2610.30157",
+        "date": "2026-10-23T04:00:00.000Z"
       },
       {
-        "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
-        "link": "https://arxiv.org/abs/2610.28706",
-        "date": "2026-10-22T04:00:00.000Z"
+        "title": "Accelerating Wildfire Hazard Mapping Across Canada with an AI Surrogate Modelling Framework",
+        "link": "https://arxiv.org/abs/2610.30170",
+        "date": "2026-10-23T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
