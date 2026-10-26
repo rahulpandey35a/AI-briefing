@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T23:08:41.883Z",
+  "generated": "2026-10-26T04:24:39.970Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
-        "link": "https://arxiv.org/abs/2610.30151",
-        "date": "2026-10-23T04:00:00.000Z"
+        "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+        "link": "https://arxiv.org/abs/2610.31701",
+        "date": "2026-10-26T04:00:00.000Z"
       },
       {
-        "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
-        "link": "https://arxiv.org/abs/2610.30157",
-        "date": "2026-10-23T04:00:00.000Z"
+        "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+        "link": "https://arxiv.org/abs/2610.31789",
+        "date": "2026-10-26T04:00:00.000Z"
       },
       {
-        "title": "Accelerating Wildfire Hazard Mapping Across Canada with an AI Surrogate Modelling Framework",
-        "link": "https://arxiv.org/abs/2610.30170",
-        "date": "2026-10-23T04:00:00.000Z"
+        "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+        "link": "https://arxiv.org/abs/2610.31808",
+        "date": "2026-10-26T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
