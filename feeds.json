@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T12:44:14.505Z",
+  "generated": "2026-10-26T20:24:19.572Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,19 +38,19 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Will the real Anthropic please stand up",
+        "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+        "date": "2026-10-26T17:45:43.000Z"
+      },
+      {
+        "title": "The focus on AI safety disasters ignores everyday harms",
+        "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+        "date": "2026-10-26T09:01:00.000Z"
+      },
+      {
         "title": "Designing an AI serving harness built to last",
         "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
         "date": "2026-10-22T21:17:29.000Z"
-      },
-      {
-        "title": "The Foundations of Scalable AI",
-        "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-        "date": "2026-10-22T18:48:04.000Z"
-      },
-      {
-        "title": "Making the case for context-aware AI",
-        "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-        "date": "2026-10-22T10:00:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
