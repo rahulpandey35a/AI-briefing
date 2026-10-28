@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T05:17:29.686Z",
+  "generated": "2026-10-28T12:36:58.923Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Pairing industrial AI autonomy and human control",
+        "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+        "date": "2026-10-28T12:00:00.000Z"
+      },
+      {
         "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
         "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
         "date": "2026-10-27T11:19:18.000Z"
@@ -46,11 +51,6 @@
         "title": "Will the real Anthropic please stand up",
         "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
         "date": "2026-10-26T17:45:43.000Z"
-      },
-      {
-        "title": "The focus on AI safety disasters ignores everyday harms",
-        "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-        "date": "2026-10-26T09:01:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
