@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T00:44:56.454Z",
+  "generated": "2026-10-29T09:45:48.254Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "Counting the Bandages: On measuring the time that AI saves",
         "link": "https://arxiv.org/abs/2610.35942",
-        "date": "2026-10-28T04:00:00.000Z"
+        "date": "2026-10-29T04:00:00.000Z"
       },
       {
         "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
         "link": "https://arxiv.org/abs/2610.35984",
-        "date": "2026-10-28T04:00:00.000Z"
+        "date": "2026-10-29T04:00:00.000Z"
       },
       {
         "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
         "link": "https://arxiv.org/abs/2610.36077",
-        "date": "2026-10-28T04:00:00.000Z"
+        "date": "2026-10-29T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
