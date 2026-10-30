@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T00:45:57.810Z",
+  "generated": "2026-10-30T09:51:42.995Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Counting the Bandages: On measuring the time that AI saves",
-        "link": "https://arxiv.org/abs/2610.35942",
-        "date": "2026-10-29T04:00:00.000Z"
+        "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+        "link": "https://arxiv.org/abs/2610.37720",
+        "date": "2026-10-30T04:00:00.000Z"
       },
       {
-        "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-        "link": "https://arxiv.org/abs/2610.35984",
-        "date": "2026-10-29T04:00:00.000Z"
+        "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+        "link": "https://arxiv.org/abs/2610.37731",
+        "date": "2026-10-30T04:00:00.000Z"
       },
       {
-        "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-        "link": "https://arxiv.org/abs/2610.36077",
-        "date": "2026-10-29T04:00:00.000Z"
+        "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+        "link": "https://arxiv.org/abs/2610.37732",
+        "date": "2026-10-30T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
