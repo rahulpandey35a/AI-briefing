@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T22:12:22.943Z",
+  "generated": "2026-10-31T05:14:27.391Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
         "link": "https://arxiv.org/abs/2610.37720",
-        "date": "2026-10-30T04:00:00.000Z"
+        "date": "2026-10-31T04:00:00.000Z"
       },
       {
         "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
         "link": "https://arxiv.org/abs/2610.37731",
-        "date": "2026-10-30T04:00:00.000Z"
+        "date": "2026-10-31T04:00:00.000Z"
       },
       {
         "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
         "link": "https://arxiv.org/abs/2610.37732",
-        "date": "2026-10-30T04:00:00.000Z"
+        "date": "2026-10-31T04:00:00.000Z"
       }
     ],
     "Stanford HAI": []
