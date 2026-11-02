@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T00:30:59.640Z",
+  "generated": "2026-11-02T10:51:42.691Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "The agentic web is here",
+        "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+        "date": "2026-11-02T09:35:19.000Z"
+      },
+      {
         "title": "We urgently need to monitor AI agents’ actions in real time",
         "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
         "date": "2026-10-29T10:11:12.000Z"
@@ -46,28 +51,23 @@
         "title": "Creating AI value with enterprise context",
         "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
         "date": "2026-10-28T20:32:02.000Z"
-      },
-      {
-        "title": "Pairing industrial AI autonomy and human control",
-        "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-        "date": "2026-10-28T12:00:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
       {
-        "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-        "link": "https://arxiv.org/abs/2610.37720",
-        "date": "2026-10-31T04:00:00.000Z"
+        "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+        "link": "https://arxiv.org/abs/2610.40758",
+        "date": "2026-11-02T05:00:00.000Z"
       },
       {
-        "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
-        "link": "https://arxiv.org/abs/2610.37731",
-        "date": "2026-10-31T04:00:00.000Z"
+        "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+        "link": "https://arxiv.org/abs/2610.40798",
+        "date": "2026-11-02T05:00:00.000Z"
       },
       {
-        "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
-        "link": "https://arxiv.org/abs/2610.37732",
-        "date": "2026-10-31T04:00:00.000Z"
+        "title": "Circumventing the Computational Hardness of Computational Arbitrage",
+        "link": "https://arxiv.org/abs/2610.40831",
+        "date": "2026-11-02T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
