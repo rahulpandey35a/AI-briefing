@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T21:39:50.479Z",
+  "generated": "2026-11-03T06:22:02.386Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+        "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+        "date": "2026-11-03T04:18:47.000Z"
+      },
+      {
         "title": "Raising the quality of insights in agentic analytics",
         "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
         "date": "2026-11-02T17:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "Stop counting tokens, start counting what ships",
         "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
         "date": "2026-11-02T13:10:32.000Z"
-      },
-      {
-        "title": "The agentic web is here",
-        "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-        "date": "2026-11-02T09:35:19.000Z"
       }
     ],
     "arXiv — cs.AI": [
