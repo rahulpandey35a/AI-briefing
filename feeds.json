@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T23:09:41.848Z",
+  "generated": "2026-11-04T05:56:04.346Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability",
-        "link": "https://arxiv.org/abs/2611.00159",
-        "date": "2026-11-03T05:00:00.000Z"
+        "title": "Alignment Faking Depends on the Value, Not Just the Model",
+        "link": "https://arxiv.org/abs/2611.03650",
+        "date": "2026-11-04T05:00:00.000Z"
       },
       {
-        "title": "Learning to bid and bundle: a posterior-sampling agent for online retail",
-        "link": "https://arxiv.org/abs/2611.00165",
-        "date": "2026-11-03T05:00:00.000Z"
+        "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
+        "link": "https://arxiv.org/abs/2611.03651",
+        "date": "2026-11-04T05:00:00.000Z"
       },
       {
-        "title": "Early Stopping in Large Reasoning Models: A Survey and Empirical Audit of Efficiency and Reliability",
-        "link": "https://arxiv.org/abs/2611.00166",
-        "date": "2026-11-03T05:00:00.000Z"
+        "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
+        "link": "https://arxiv.org/abs/2611.03662",
+        "date": "2026-11-04T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
