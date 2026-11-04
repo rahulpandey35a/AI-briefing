@@ -1,22 +1,22 @@
 {
-  "generated": "2026-11-04T14:15:51.805Z",
+  "generated": "2026-11-04T21:13:39.726Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
       {
+        "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+        "link": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+        "date": "2026-11-02T14:30:54.000Z"
+      },
+      {
+        "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+        "link": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+        "date": "2026-10-26T12:31:52.000Z"
+      },
+      {
         "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
         "link": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
         "date": "2026-10-19T12:31:37.000Z"
-      },
-      {
-        "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-        "link": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
-        "date": "2026-10-12T12:30:39.000Z"
-      },
-      {
-        "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-        "link": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
-        "date": "2026-10-05T12:32:30.000Z"
       }
     ],
     "AI Snake Oil": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+        "date": "2026-11-04T18:50:55.000Z"
+      },
+      {
         "title": "Securing the agentic enterprise with data lineage",
         "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
         "date": "2026-11-04T13:00:00.000Z"
@@ -46,11 +51,6 @@
         "title": "How “reverse game theory” could keep AI agents in check",
         "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
         "date": "2026-11-03T10:43:41.000Z"
-      },
-      {
-        "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-        "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-        "date": "2026-11-03T04:18:47.000Z"
       }
     ],
     "arXiv — cs.AI": [
