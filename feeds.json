@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T05:56:04.346Z",
+  "generated": "2026-11-04T14:15:51.805Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Securing the agentic enterprise with data lineage",
+        "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+        "date": "2026-11-04T13:00:00.000Z"
+      },
+      {
         "title": "How “reverse game theory” could keep AI agents in check",
         "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
         "date": "2026-11-03T10:43:41.000Z"
@@ -46,11 +51,6 @@
         "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
         "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
         "date": "2026-11-03T04:18:47.000Z"
-      },
-      {
-        "title": "Raising the quality of insights in agentic analytics",
-        "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-        "date": "2026-11-02T17:00:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
