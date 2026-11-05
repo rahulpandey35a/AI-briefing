@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T21:13:39.726Z",
+  "generated": "2026-11-05T06:19:05.618Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Alignment Faking Depends on the Value, Not Just the Model",
-        "link": "https://arxiv.org/abs/2611.03650",
-        "date": "2026-11-04T05:00:00.000Z"
+        "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+        "link": "https://arxiv.org/abs/2611.05390",
+        "date": "2026-11-05T05:00:00.000Z"
       },
       {
-        "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
-        "link": "https://arxiv.org/abs/2611.03651",
-        "date": "2026-11-04T05:00:00.000Z"
+        "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+        "link": "https://arxiv.org/abs/2611.05391",
+        "date": "2026-11-05T05:00:00.000Z"
       },
       {
-        "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
-        "link": "https://arxiv.org/abs/2611.03662",
-        "date": "2026-11-04T05:00:00.000Z"
+        "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+        "link": "https://arxiv.org/abs/2611.05392",
+        "date": "2026-11-05T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
