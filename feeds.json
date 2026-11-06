@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T06:13:10.515Z",
+  "generated": "2026-11-06T16:42:06.809Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+        "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+        "date": "2026-11-06T10:00:00.000Z"
+      },
+      {
         "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
         "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
         "date": "2026-11-04T18:50:55.000Z"
@@ -46,11 +51,6 @@
         "title": "Securing the agentic enterprise with data lineage",
         "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
         "date": "2026-11-04T13:00:00.000Z"
-      },
-      {
-        "title": "How “reverse game theory” could keep AI agents in check",
-        "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-        "date": "2026-11-03T10:43:41.000Z"
       }
     ],
     "arXiv — cs.AI": [
