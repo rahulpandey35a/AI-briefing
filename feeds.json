@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T23:31:34.265Z",
+  "generated": "2026-11-06T06:13:10.515Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
-        "link": "https://arxiv.org/abs/2611.05390",
-        "date": "2026-11-05T05:00:00.000Z"
+        "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+        "link": "https://arxiv.org/abs/2611.06962",
+        "date": "2026-11-06T05:00:00.000Z"
       },
       {
-        "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
-        "link": "https://arxiv.org/abs/2611.05391",
-        "date": "2026-11-05T05:00:00.000Z"
+        "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+        "link": "https://arxiv.org/abs/2611.06972",
+        "date": "2026-11-06T05:00:00.000Z"
       },
       {
-        "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
-        "link": "https://arxiv.org/abs/2611.05392",
-        "date": "2026-11-05T05:00:00.000Z"
+        "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+        "link": "https://arxiv.org/abs/2611.06977",
+        "date": "2026-11-06T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
