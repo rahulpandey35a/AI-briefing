@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T21:55:59.076Z",
+  "generated": "2026-11-09T05:55:13.514Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-        "link": "https://arxiv.org/abs/2611.06962",
-        "date": "2026-11-06T05:00:00.000Z"
+        "title": "Enhancing Academic Advisement with Case-Based Reasoning",
+        "link": "https://arxiv.org/abs/2611.08572",
+        "date": "2026-11-09T05:00:00.000Z"
       },
       {
-        "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-        "link": "https://arxiv.org/abs/2611.06972",
-        "date": "2026-11-06T05:00:00.000Z"
+        "title": "NormGym: Evaluating Normative Competence through Social Interaction",
+        "link": "https://arxiv.org/abs/2611.08613",
+        "date": "2026-11-09T05:00:00.000Z"
       },
       {
-        "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-        "link": "https://arxiv.org/abs/2611.06977",
-        "date": "2026-11-06T05:00:00.000Z"
+        "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
+        "link": "https://arxiv.org/abs/2611.08626",
+        "date": "2026-11-09T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
