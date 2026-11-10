@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T10:57:37.196Z",
+  "generated": "2026-11-10T19:36:27.841Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -21,6 +21,11 @@
     ],
     "AI Snake Oil": [
       {
+        "title": "The missing quadrant in responses to AI",
+        "link": "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
+        "date": "2026-11-10T18:37:42.000Z"
+      },
+      {
         "title": "New paper: Emerging trends in AI agent evaluation",
         "link": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
         "date": "2026-10-19T20:11:55.000Z"
@@ -29,11 +34,6 @@
         "title": "Steering AI Beyond Automation",
         "link": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
         "date": "2026-10-14T19:56:44.000Z"
-      },
-      {
-        "title": "A big-tent or small-tent AI safety movement?",
-        "link": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
-        "date": "2026-10-01T16:34:51.000Z"
       }
     ],
     "MIT Technology Review": [
