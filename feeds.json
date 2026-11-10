@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T01:25:26.628Z",
+  "generated": "2026-11-10T10:57:37.196Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Enhancing Academic Advisement with Case-Based Reasoning",
-        "link": "https://arxiv.org/abs/2611.08572",
-        "date": "2026-11-09T05:00:00.000Z"
+        "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
+        "link": "https://arxiv.org/abs/2611.10045",
+        "date": "2026-11-10T05:00:00.000Z"
       },
       {
-        "title": "NormGym: Evaluating Normative Competence through Social Interaction",
-        "link": "https://arxiv.org/abs/2611.08613",
-        "date": "2026-11-09T05:00:00.000Z"
+        "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
+        "link": "https://arxiv.org/abs/2611.10048",
+        "date": "2026-11-10T05:00:00.000Z"
       },
       {
-        "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
-        "link": "https://arxiv.org/abs/2611.08626",
-        "date": "2026-11-09T05:00:00.000Z"
+        "title": "LoRazor: Trimming Adapter Execution for Efficient Multi-LoRA Serving",
+        "link": "https://arxiv.org/abs/2611.10049",
+        "date": "2026-11-10T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
