@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T01:11:15.176Z",
+  "generated": "2026-11-11T10:39:36.899Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
-        "link": "https://arxiv.org/abs/2611.10045",
-        "date": "2026-11-10T05:00:00.000Z"
+        "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+        "link": "https://arxiv.org/abs/2611.12933",
+        "date": "2026-11-11T05:00:00.000Z"
       },
       {
-        "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
-        "link": "https://arxiv.org/abs/2611.10048",
-        "date": "2026-11-10T05:00:00.000Z"
+        "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+        "link": "https://arxiv.org/abs/2611.12934",
+        "date": "2026-11-11T05:00:00.000Z"
       },
       {
-        "title": "LoRazor: Trimming Adapter Execution for Efficient Multi-LoRA Serving",
-        "link": "https://arxiv.org/abs/2611.10049",
-        "date": "2026-11-10T05:00:00.000Z"
+        "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+        "link": "https://arxiv.org/abs/2611.12935",
+        "date": "2026-11-11T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
