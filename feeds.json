@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T01:45:50.717Z",
+  "generated": "2026-11-13T10:48:43.497Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-        "link": "https://arxiv.org/abs/2611.12933",
-        "date": "2026-11-11T05:00:00.000Z"
+        "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+        "link": "https://arxiv.org/abs/2611.14544",
+        "date": "2026-11-13T05:00:00.000Z"
       },
       {
-        "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-        "link": "https://arxiv.org/abs/2611.12934",
-        "date": "2026-11-11T05:00:00.000Z"
+        "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+        "link": "https://arxiv.org/abs/2611.14654",
+        "date": "2026-11-13T05:00:00.000Z"
       },
       {
-        "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-        "link": "https://arxiv.org/abs/2611.12935",
-        "date": "2026-11-11T05:00:00.000Z"
+        "title": "Together Compiler: Continual Compilation for AI Inference",
+        "link": "https://arxiv.org/abs/2611.14681",
+        "date": "2026-11-13T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
