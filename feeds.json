@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T19:48:18.872Z",
+  "generated": "2026-11-13T01:45:50.717Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+        "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+        "date": "2026-11-12T20:16:24.000Z"
+      },
+      {
         "title": "The backlash about data centers might really just be about electricity",
         "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
         "date": "2026-11-09T19:35:33.000Z"
@@ -46,11 +51,6 @@
         "title": "Nancy Pelosi’s replacement is ready to regulate AI",
         "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
         "date": "2026-11-09T17:05:43.000Z"
-      },
-      {
-        "title": "Innovating with AI in the special chemicals industry",
-        "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-        "date": "2026-11-09T13:00:00.000Z"
       }
     ],
     "arXiv — cs.AI": [
