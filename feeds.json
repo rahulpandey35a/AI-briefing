@@ -1,8 +1,13 @@
 {
-  "generated": "2026-11-14T17:53:45.991Z",
+  "generated": "2026-11-14T22:15:30.567Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
+      {
+        "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+        "link": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+        "date": "2026-11-09T13:31:34.000Z"
+      },
       {
         "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
         "link": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
@@ -12,11 +17,6 @@
         "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
         "link": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
         "date": "2026-10-26T12:31:52.000Z"
-      },
-      {
-        "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
-        "link": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
-        "date": "2026-10-19T12:31:37.000Z"
       }
     ],
     "AI Snake Oil": [
