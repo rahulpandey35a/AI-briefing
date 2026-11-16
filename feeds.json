@@ -1,8 +1,13 @@
 {
-  "generated": "2026-11-16T06:01:18.634Z",
+  "generated": "2026-11-16T15:35:17.479Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
+      {
+        "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+        "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+        "date": "2026-11-16T14:01:15.000Z"
+      },
       {
         "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
         "link": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
@@ -12,11 +17,6 @@
         "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
         "link": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
         "date": "2026-11-02T14:30:54.000Z"
-      },
-      {
-        "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
-        "link": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
-        "date": "2026-10-26T12:31:52.000Z"
       }
     ],
     "AI Snake Oil": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Building AI that can work across the enterprise",
+        "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+        "date": "2026-11-16T13:00:00.000Z"
+      },
+      {
         "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
         "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
         "date": "2026-11-12T20:16:24.000Z"
@@ -46,11 +51,6 @@
         "title": "The backlash about data centers might really just be about electricity",
         "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
         "date": "2026-11-09T19:35:33.000Z"
-      },
-      {
-        "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-        "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-        "date": "2026-11-09T17:05:43.000Z"
       }
     ],
     "arXiv — cs.AI": [
