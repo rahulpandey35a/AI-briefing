@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T22:42:53.710Z",
+  "generated": "2026-11-16T06:01:18.634Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-        "link": "https://arxiv.org/abs/2611.14544",
-        "date": "2026-11-13T05:00:00.000Z"
+        "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+        "link": "https://arxiv.org/abs/2611.17338",
+        "date": "2026-11-16T05:00:00.000Z"
       },
       {
-        "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-        "link": "https://arxiv.org/abs/2611.14654",
-        "date": "2026-11-13T05:00:00.000Z"
+        "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+        "link": "https://arxiv.org/abs/2611.17339",
+        "date": "2026-11-16T05:00:00.000Z"
       },
       {
-        "title": "Together Compiler: Continual Compilation for AI Inference",
-        "link": "https://arxiv.org/abs/2611.14681",
-        "date": "2026-11-13T05:00:00.000Z"
+        "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+        "link": "https://arxiv.org/abs/2611.17340",
+        "date": "2026-11-16T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
