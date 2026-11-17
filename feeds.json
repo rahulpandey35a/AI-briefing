@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T01:49:36.452Z",
+  "generated": "2026-11-17T11:40:33.811Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-        "link": "https://arxiv.org/abs/2611.17338",
-        "date": "2026-11-16T05:00:00.000Z"
+        "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
+        "link": "https://arxiv.org/abs/2611.18642",
+        "date": "2026-11-17T05:00:00.000Z"
       },
       {
-        "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-        "link": "https://arxiv.org/abs/2611.17339",
-        "date": "2026-11-16T05:00:00.000Z"
+        "title": "How to make a moral agent: sentimentalism and rationalism as lenses on AI",
+        "link": "https://arxiv.org/abs/2611.18714",
+        "date": "2026-11-17T05:00:00.000Z"
       },
       {
-        "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
-        "link": "https://arxiv.org/abs/2611.17340",
-        "date": "2026-11-16T05:00:00.000Z"
+        "title": "Video-as-Experience: Learning Computer Use via Audio-Visual Understanding",
+        "link": "https://arxiv.org/abs/2611.18747",
+        "date": "2026-11-17T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
