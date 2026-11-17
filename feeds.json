@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T15:35:17.479Z",
+  "generated": "2026-11-17T01:49:36.452Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,19 +38,19 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "The open-source movement wants Jensen Huang back",
+        "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+        "date": "2026-11-16T18:38:47.000Z"
+      },
+      {
+        "title": "Building trustworthy AI by fencing it in, not predicting it",
+        "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+        "date": "2026-11-16T16:04:28.000Z"
+      },
+      {
         "title": "Building AI that can work across the enterprise",
         "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
         "date": "2026-11-16T13:00:00.000Z"
-      },
-      {
-        "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-        "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-        "date": "2026-11-12T20:16:24.000Z"
-      },
-      {
-        "title": "The backlash about data centers might really just be about electricity",
-        "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-        "date": "2026-11-09T19:35:33.000Z"
       }
     ],
     "arXiv — cs.AI": [
