@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T02:50:09.101Z",
+  "generated": "2026-11-18T11:27:40.566Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "This smell startup says its AI nose is as good as a human’s",
+        "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+        "date": "2026-11-18T10:20:30.000Z"
+      },
+      {
         "title": "Research Reports",
         "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
         "date": "2026-11-17T14:39:46.000Z"
@@ -46,28 +51,23 @@
         "title": "The open-source movement wants Jensen Huang back",
         "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
         "date": "2026-11-16T18:38:47.000Z"
-      },
-      {
-        "title": "Building trustworthy AI by fencing it in, not predicting it",
-        "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-        "date": "2026-11-16T16:04:28.000Z"
       }
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
-        "link": "https://arxiv.org/abs/2611.18642",
-        "date": "2026-11-17T05:00:00.000Z"
+        "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+        "link": "https://arxiv.org/abs/2611.21682",
+        "date": "2026-11-18T05:00:00.000Z"
       },
       {
-        "title": "How to make a moral agent: sentimentalism and rationalism as lenses on AI",
-        "link": "https://arxiv.org/abs/2611.18714",
-        "date": "2026-11-17T05:00:00.000Z"
+        "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+        "link": "https://arxiv.org/abs/2611.21799",
+        "date": "2026-11-18T05:00:00.000Z"
       },
       {
-        "title": "Video-as-Experience: Learning Computer Use via Audio-Visual Understanding",
-        "link": "https://arxiv.org/abs/2611.18747",
-        "date": "2026-11-17T05:00:00.000Z"
+        "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+        "link": "https://arxiv.org/abs/2611.21827",
+        "date": "2026-11-18T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
