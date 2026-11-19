@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T02:27:54.012Z",
+  "generated": "2026-11-19T11:24:55.037Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
-        "link": "https://arxiv.org/abs/2611.21682",
-        "date": "2026-11-18T05:00:00.000Z"
+        "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+        "link": "https://arxiv.org/abs/2611.23322",
+        "date": "2026-11-19T05:00:00.000Z"
       },
       {
-        "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-        "link": "https://arxiv.org/abs/2611.21799",
-        "date": "2026-11-18T05:00:00.000Z"
+        "title": "Training Language Models for Introspective Oversight",
+        "link": "https://arxiv.org/abs/2611.23365",
+        "date": "2026-11-19T05:00:00.000Z"
       },
       {
-        "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
-        "link": "https://arxiv.org/abs/2611.21827",
-        "date": "2026-11-18T05:00:00.000Z"
+        "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+        "link": "https://arxiv.org/abs/2611.23375",
+        "date": "2026-11-19T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
