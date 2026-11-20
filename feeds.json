@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T11:15:25.666Z",
+  "generated": "2026-11-20T19:55:44.148Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "The most misunderstood graph in AI just got a major update",
+        "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+        "date": "2026-11-20T18:15:15.000Z"
+      },
+      {
         "title": "The AI Hype Index: AI is everywhere",
         "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
         "date": "2026-11-18T14:42:44.000Z"
@@ -46,11 +51,6 @@
         "title": "This smell startup says its AI nose is as good as a human’s",
         "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
         "date": "2026-11-18T10:20:30.000Z"
-      },
-      {
-        "title": "Research Reports",
-        "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-        "date": "2026-11-17T14:39:46.000Z"
       }
     ],
     "arXiv — cs.AI": [
