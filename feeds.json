@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T02:12:43.603Z",
+  "generated": "2026-11-20T11:15:25.666Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-        "link": "https://arxiv.org/abs/2611.23322",
-        "date": "2026-11-19T05:00:00.000Z"
+        "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
+        "link": "https://arxiv.org/abs/2611.25043",
+        "date": "2026-11-20T05:00:00.000Z"
       },
       {
-        "title": "Training Language Models for Introspective Oversight",
-        "link": "https://arxiv.org/abs/2611.23365",
-        "date": "2026-11-19T05:00:00.000Z"
+        "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
+        "link": "https://arxiv.org/abs/2611.25070",
+        "date": "2026-11-20T05:00:00.000Z"
       },
       {
-        "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-        "link": "https://arxiv.org/abs/2611.23375",
-        "date": "2026-11-19T05:00:00.000Z"
+        "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
+        "link": "https://arxiv.org/abs/2611.25087",
+        "date": "2026-11-20T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
