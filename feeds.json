@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T01:31:05.579Z",
+  "generated": "2026-11-23T12:09:17.847Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
-        "link": "https://arxiv.org/abs/2611.25043",
-        "date": "2026-11-20T05:00:00.000Z"
+        "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+        "link": "https://arxiv.org/abs/2611.26663",
+        "date": "2026-11-23T05:00:00.000Z"
       },
       {
-        "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
-        "link": "https://arxiv.org/abs/2611.25070",
-        "date": "2026-11-20T05:00:00.000Z"
+        "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+        "link": "https://arxiv.org/abs/2611.26717",
+        "date": "2026-11-23T05:00:00.000Z"
       },
       {
-        "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
-        "link": "https://arxiv.org/abs/2611.25087",
-        "date": "2026-11-20T05:00:00.000Z"
+        "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+        "link": "https://arxiv.org/abs/2611.26722",
+        "date": "2026-11-23T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
