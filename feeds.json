@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T13:30:28.590Z",
+  "generated": "2026-11-24T23:50:40.951Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -38,6 +38,11 @@
     ],
     "MIT Technology Review": [
       {
+        "title": "Raising the stakes for enterprise networks with AI modernization",
+        "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+        "date": "2026-11-24T15:15:16.000Z"
+      },
+      {
         "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
         "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
         "date": "2026-11-23T17:36:08.000Z"
@@ -46,11 +51,6 @@
         "title": "The most misunderstood graph in AI just got a major update",
         "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
         "date": "2026-11-20T18:15:15.000Z"
-      },
-      {
-        "title": "The AI Hype Index: AI is everywhere",
-        "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-        "date": "2026-11-18T14:42:44.000Z"
       }
     ],
     "arXiv — cs.AI": [
