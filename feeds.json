@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T02:06:06.110Z",
+  "generated": "2026-11-24T13:30:28.590Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
-        "link": "https://arxiv.org/abs/2611.26663",
-        "date": "2026-11-23T05:00:00.000Z"
+        "title": "SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets",
+        "link": "https://arxiv.org/abs/2611.28185",
+        "date": "2026-11-24T05:00:00.000Z"
       },
       {
-        "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
-        "link": "https://arxiv.org/abs/2611.26717",
-        "date": "2026-11-23T05:00:00.000Z"
+        "title": "torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch",
+        "link": "https://arxiv.org/abs/2611.28195",
+        "date": "2026-11-24T05:00:00.000Z"
       },
       {
-        "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-        "link": "https://arxiv.org/abs/2611.26722",
-        "date": "2026-11-23T05:00:00.000Z"
+        "title": "From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment",
+        "link": "https://arxiv.org/abs/2611.28197",
+        "date": "2026-11-24T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
