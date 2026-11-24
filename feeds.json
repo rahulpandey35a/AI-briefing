@@ -1,8 +1,13 @@
 {
-  "generated": "2026-11-23T12:09:17.847Z",
+  "generated": "2026-11-24T02:06:06.110Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
+      {
+        "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+        "link": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+        "date": "2026-11-23T14:11:17.000Z"
+      },
       {
         "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
         "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
@@ -12,14 +17,14 @@
         "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
         "link": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
         "date": "2026-11-09T13:31:34.000Z"
-      },
-      {
-        "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-        "link": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
-        "date": "2026-11-02T14:30:54.000Z"
       }
     ],
     "AI Snake Oil": [
+      {
+        "title": "Management consulting is not a thin wrapper on intelligence",
+        "link": "https://www.normaltech.ai/p/management-consulting-is-not-a-thin",
+        "date": "2026-11-23T20:12:32.000Z"
+      },
       {
         "title": "The missing quadrant in responses to AI",
         "link": "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
@@ -29,14 +34,14 @@
         "title": "New paper: Emerging trends in AI agent evaluation",
         "link": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
         "date": "2026-10-19T20:11:55.000Z"
-      },
-      {
-        "title": "Steering AI Beyond Automation",
-        "link": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
-        "date": "2026-10-14T19:56:44.000Z"
       }
     ],
     "MIT Technology Review": [
+      {
+        "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+        "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+        "date": "2026-11-23T17:36:08.000Z"
+      },
       {
         "title": "The most misunderstood graph in AI just got a major update",
         "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
@@ -46,11 +51,6 @@
         "title": "The AI Hype Index: AI is everywhere",
         "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
         "date": "2026-11-18T14:42:44.000Z"
-      },
-      {
-        "title": "This smell startup says its AI nose is as good as a human’s",
-        "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-        "date": "2026-11-18T10:20:30.000Z"
       }
     ],
     "arXiv — cs.AI": [
