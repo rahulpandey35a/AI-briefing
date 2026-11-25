@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T23:50:40.951Z",
+  "generated": "2026-11-25T08:06:57.250Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -55,19 +55,19 @@
     ],
     "arXiv — cs.AI": [
       {
-        "title": "SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets",
-        "link": "https://arxiv.org/abs/2611.28185",
-        "date": "2026-11-24T05:00:00.000Z"
+        "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+        "link": "https://arxiv.org/abs/2611.31284",
+        "date": "2026-11-25T05:00:00.000Z"
       },
       {
-        "title": "torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch",
-        "link": "https://arxiv.org/abs/2611.28195",
-        "date": "2026-11-24T05:00:00.000Z"
+        "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+        "link": "https://arxiv.org/abs/2611.31301",
+        "date": "2026-11-25T05:00:00.000Z"
       },
       {
-        "title": "From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment",
-        "link": "https://arxiv.org/abs/2611.28197",
-        "date": "2026-11-24T05:00:00.000Z"
+        "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+        "link": "https://arxiv.org/abs/2611.31329",
+        "date": "2026-11-25T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
