@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T01:38:33.555Z",
+  "generated": "2026-11-27T11:59:12.165Z",
   "feeds": {
     "The Batch": [],
     "Import AI": [
@@ -57,17 +57,17 @@
       {
         "title": "Context Scaling: A New Frontier of AI Scaling",
         "link": "https://arxiv.org/abs/2611.33160",
-        "date": "2026-11-26T05:00:00.000Z"
+        "date": "2026-11-27T05:00:00.000Z"
       },
       {
         "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
         "link": "https://arxiv.org/abs/2611.33161",
-        "date": "2026-11-26T05:00:00.000Z"
+        "date": "2026-11-27T05:00:00.000Z"
       },
       {
         "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
         "link": "https://arxiv.org/abs/2611.33165",
-        "date": "2026-11-26T05:00:00.000Z"
+        "date": "2026-11-27T05:00:00.000Z"
       }
     ],
     "Stanford HAI": []
